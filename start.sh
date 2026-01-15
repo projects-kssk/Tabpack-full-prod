@@ -11,8 +11,8 @@ docker load -i redis_8.4.0.tar
 docker load -i krosy-backend_image.tar
 #docker load -i tabpack-controller_image.tar
 
-docker load -i controller.tar
-docker tag tabpack-controller-packing-table:latest tabpack-controller:latest
+#docker load -i controller.tar
+#docker tag tabpack-controller-packing-table:latest tabpack-controller:latest
 
 # Start compose
 docker compose up
