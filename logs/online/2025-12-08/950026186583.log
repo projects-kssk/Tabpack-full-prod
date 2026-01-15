@@ -1,0 +1,54 @@
+2025-12-08 11:04:20,549 - REQUEST:
+	Endpoint: POST http://localhost:4444/vc/
+	Body:
+		{
+			"intksk": "950026186583"
+		}
+
+2025-12-08 11:04:20,551 - RESPONSE:
+	Status: 200
+	Process time: 0.174s
+	Body:
+		{
+			"device_name": "ksmitabpack03",
+			"setup": "U25K_PACKINGTABLE_TEST",
+			"projekt": "U25K",
+			"modbez": "HLS_LL",
+			"band": "0953I3",
+			"status": true,
+			"ident": "642033D",
+			"intksk": "950026186583",
+			"sequences": [
+				{
+					"objGroup": "U25 0725",
+					"objPos": "Output1",
+					"reference": "2",
+					"result": false,
+					"compType": "scan",
+					"measType": "default",
+					"intksk": null,
+					"component": {
+						"type": "scan",
+						"index": "2",
+						"ident": null,
+						"name": "scan_2",
+						"start_pos": "1",
+						"regex": "",
+						"data": "P8385996"
+					}
+				}
+			]
+		}
+
+2025-12-08 11:04:23,764 - REQUEST:
+	Endpoint: POST http://localhost:4444/vc/checkpoint/
+	Body:
+		{
+			"intksk": "950026186583"
+		}
+
+2025-12-08 11:04:23,767 - RESPONSE:
+	Status: 200
+	Process time: 3.196s
+	Body: None
+

@@ -1,0 +1,108 @@
+2025-12-08 08:54:50,048 - REQUEST:
+	Endpoint: POST http://localhost:4444/vc/
+	Body:
+		{
+			"intksk": "P83574127971"
+		}
+
+2025-12-08 08:54:50,049 - RESPONSE:
+	Status: 200
+	Process time: 0.255s
+	Body:
+		{
+			"device_name": "ksmitabpack03",
+			"setup": "U25K_PACKINGTABLE_TEST",
+			"projekt": "U2BK",
+			"modbez": "HLS_RL",
+			"band": "PSEU83",
+			"status": true,
+			"ident": "R658998D",
+			"intksk": "P83574127971",
+			"sequences": [
+				{
+					"objGroup": "U25 0726",
+					"objPos": "Output4",
+					"reference": "8",
+					"result": false,
+					"compType": "scan",
+					"measType": "default",
+					"intksk": null,
+					"component": {
+						"type": "scan",
+						"index": "8",
+						"ident": null,
+						"name": "scan_8",
+						"start_pos": "1",
+						"regex": "",
+						"data": "P8390005"
+					}
+				}
+			]
+		}
+
+2025-12-08 08:54:53,319 - REQUEST:
+	Endpoint: POST http://localhost:4444/vc/checkpoint/
+	Body:
+		{
+			"intksk": "P83574127971"
+		}
+
+2025-12-08 08:54:53,320 - RESPONSE:
+	Status: 200
+	Process time: 3.254s
+	Body: None
+
+2025-12-08 09:42:20,690 - REQUEST:
+	Endpoint: POST http://localhost:4444/vc/
+	Body:
+		{
+			"intksk": "P83574127971"
+		}
+
+2025-12-08 09:42:20,691 - RESPONSE:
+	Status: 200
+	Process time: 0.24s
+	Body:
+		{
+			"device_name": "ksmitabpack03",
+			"setup": "U25K_PACKINGTABLE_TEST",
+			"projekt": "U2BK",
+			"modbez": "HLS_RL",
+			"band": "PSEU83",
+			"status": true,
+			"ident": "R658998D",
+			"intksk": "P83574127971",
+			"sequences": [
+				{
+					"objGroup": "U25 0726",
+					"objPos": "Output4",
+					"reference": "8",
+					"result": false,
+					"compType": "scan",
+					"measType": "default",
+					"intksk": null,
+					"component": {
+						"type": "scan",
+						"index": "8",
+						"ident": null,
+						"name": "scan_8",
+						"start_pos": "1",
+						"regex": "",
+						"data": "P8390005"
+					}
+				}
+			]
+		}
+
+2025-12-08 09:42:23,967 - REQUEST:
+	Endpoint: POST http://localhost:4444/vc/checkpoint/
+	Body:
+		{
+			"intksk": "P83574127971"
+		}
+
+2025-12-08 09:42:23,968 - RESPONSE:
+	Status: 200
+	Process time: 3.266s
+	Body: None
+

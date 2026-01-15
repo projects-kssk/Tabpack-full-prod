@@ -1,0 +1,200 @@
+2025-12-08 10:50:09,421 - REQUEST:
+	Endpoint: POST http://localhost:4444/vc/raw/
+	Body:
+		{
+			"intksk": "950025906797"
+		}
+
+2025-12-08 10:50:09,421 - RESPONSE:
+	Status: 200
+	Process time: 0.167s
+	Body:
+		<krosy xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.kroschu.com/kroscada/namespaces/krosy/visualcontrol/V_1_2">
+		    <header>
+		        <requestID>42</requestID>
+		        <responseID>2</responseID>
+		        <sourceHost>
+		            <hostname>ksmisun01</hostname>
+		            <ipAddress>0.0.0.0</ipAddress>
+		        </sourceHost>
+		        <targetHost>
+		            <hostname>ksmitabpack03</hostname>
+		        </targetHost>
+		        <embeddedBinaries allowed="true" encoding="Base64"/>
+		    </header>
+		    <body>
+		        <visualControl>
+		            <workingData device="ksmitabpack03" intksk="950025906797" kfb="" scanned="2025-12-08T10:50:09" setup="U25K_PACKINGTABLE_TEST" projekt="U25K" ksknr="0025119" kskidx="0" lfdnr="0" modbez="HLS_LL" modjahr="" band="0953I1" ident="642033D" status="true">
+		                <sequencer>
+		                    <segmentList count="1">
+		                        <segment index="1" name="1">
+		                            <sequenceList count="8">
+		                                <sequence index="1" compType="scan" reference="1" measType="no_check">
+		                                    <objGroup>U25 0725</objGroup>
+		                                    <objPos>Output3</objPos>
+		                                </sequence>
+		                                <sequence index="2" compType="scan" reference="2" measType="no_check">
+		                                    <objGroup>U25 0725</objGroup>
+		                                    <objPos>Output1</objPos>
+		                                </sequence>
+		                                <sequence index="3" compType="scan" reference="3" measType="no_check">
+		                                    <objGroup>U25 0725</objGroup>
+		                                    <objPos>Output4</objPos>
+		                                </sequence>
+		                                <sequence index="4" compType="scan" reference="4" measType="no_check">
+		                                    <objGroup>U25 0725</objGroup>
+		                                    <objPos>Output2</objPos>
+		                                </sequence>
+		                                <sequence index="5" compType="scan" reference="5" measType="no_check">
+		                                    <objGroup>U25 0726</objGroup>
+		                                    <objPos>Output2</objPos>
+		                                </sequence>
+		                                <sequence index="6" compType="scan" reference="6" measType="no_check">
+		                                    <objGroup>U25 0726</objGroup>
+		                                    <objPos>Output1</objPos>
+		                                </sequence>
+		                                <sequence index="7" compType="scan" reference="7" measType="no_check">
+		                                    <objGroup>U25 0726</objGroup>
+		                                    <objPos>Output3</objPos>
+		                                </sequence>
+		                                <sequence index="8" compType="scan" reference="8" measType="no_check">
+		                                    <objGroup>U25 0726</objGroup>
+		                                    <objPos>Output4</objPos>
+		                                </sequence>
+		                            </sequenceList>
+		                        </segment>
+		                    </segmentList>
+		                </sequencer>
+		                <component>
+		                    <scanList count="8">
+		                        <scan index="1" name="scan_1">
+		                            <text startPos="1" regEx="">no_check</text>
+		                        </scan>
+		                        <scan index="2" name="scan_2">
+		                            <text startPos="1" regEx="">no_check</text>
+		                        </scan>
+		                        <scan index="3" name="scan_3">
+		                            <text startPos="1" regEx="">no_check</text>
+		                        </scan>
+		                        <scan index="4" name="scan_4">
+		                            <text startPos="1" regEx="">no_check</text>
+		                        </scan>
+		                        <scan index="5" name="scan_5">
+		                            <text startPos="1" regEx="">no_check</text>
+		                        </scan>
+		                        <scan index="6" name="scan_6">
+		                            <text startPos="1" regEx="">no_check</text>
+		                        </scan>
+		                        <scan index="7" name="scan_7">
+		                            <text startPos="1" regEx="">no_check</text>
+		                        </scan>
+		                        <scan index="8" name="scan_8">
+		                            <text startPos="1" regEx="">no_check</text>
+		                        </scan>
+		                    </scanList>
+		                </component>
+		            </workingData>
+		        </visualControl>
+		    </body>
+		</krosy>
+
+2025-12-08 10:51:24,787 - REQUEST:
+	Endpoint: POST http://localhost:4444/vc/raw/
+	Body:
+		{
+			"intksk": "950025906797"
+		}
+
+2025-12-08 10:51:24,788 - RESPONSE:
+	Status: 200
+	Process time: 0.232s
+	Body:
+		<krosy xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.kroschu.com/kroscada/namespaces/krosy/visualcontrol/V_1_2">
+		    <header>
+		        <requestID>43</requestID>
+		        <responseID>3</responseID>
+		        <sourceHost>
+		            <hostname>ksmisun01</hostname>
+		            <ipAddress>0.0.0.0</ipAddress>
+		        </sourceHost>
+		        <targetHost>
+		            <hostname>ksmitabpack03</hostname>
+		        </targetHost>
+		        <embeddedBinaries allowed="true" encoding="Base64"/>
+		    </header>
+		    <body>
+		        <visualControl>
+		            <workingData device="ksmitabpack03" intksk="950025906797" kfb="" scanned="2025-12-08T10:51:24" setup="U25K_PACKINGTABLE_TEST" projekt="U25K" ksknr="0025119" kskidx="0" lfdnr="0" modbez="HLS_LL" modjahr="" band="0953I1" ident="642033D" status="true">
+		                <sequencer>
+		                    <segmentList count="1">
+		                        <segment index="1" name="1">
+		                            <sequenceList count="8">
+		                                <sequence index="1" compType="scan" reference="1" measType="no_check">
+		                                    <objGroup>U25 0725</objGroup>
+		                                    <objPos>Output3</objPos>
+		                                </sequence>
+		                                <sequence index="2" compType="scan" reference="2" measType="no_check">
+		                                    <objGroup>U25 0725</objGroup>
+		                                    <objPos>Output1</objPos>
+		                                </sequence>
+		                                <sequence index="3" compType="scan" reference="3" measType="no_check">
+		                                    <objGroup>U25 0725</objGroup>
+		                                    <objPos>Output4</objPos>
+		                                </sequence>
+		                                <sequence index="4" compType="scan" reference="4" measType="no_check">
+		                                    <objGroup>U25 0725</objGroup>
+		                                    <objPos>Output2</objPos>
+		                                </sequence>
+		                                <sequence index="5" compType="scan" reference="5" measType="no_check">
+		                                    <objGroup>U25 0726</objGroup>
+		                                    <objPos>Output2</objPos>
+		                                </sequence>
+		                                <sequence index="6" compType="scan" reference="6" measType="no_check">
+		                                    <objGroup>U25 0726</objGroup>
+		                                    <objPos>Output1</objPos>
+		                                </sequence>
+		                                <sequence index="7" compType="scan" reference="7" measType="no_check">
+		                                    <objGroup>U25 0726</objGroup>
+		                                    <objPos>Output3</objPos>
+		                                </sequence>
+		                                <sequence index="8" compType="scan" reference="8" measType="no_check">
+		                                    <objGroup>U25 0726</objGroup>
+		                                    <objPos>Output4</objPos>
+		                                </sequence>
+		                            </sequenceList>
+		                        </segment>
+		                    </segmentList>
+		                </sequencer>
+		                <component>
+		                    <scanList count="8">
+		                        <scan index="1" name="scan_1">
+		                            <text startPos="1" regEx="">no_check</text>
+		                        </scan>
+		                        <scan index="2" name="scan_2">
+		                            <text startPos="1" regEx="">no_check</text>
+		                        </scan>
+		                        <scan index="3" name="scan_3">
+		                            <text startPos="1" regEx="">no_check</text>
+		                        </scan>
+		                        <scan index="4" name="scan_4">
+		                            <text startPos="1" regEx="">no_check</text>
+		                        </scan>
+		                        <scan index="5" name="scan_5">
+		                            <text startPos="1" regEx="">no_check</text>
+		                        </scan>
+		                        <scan index="6" name="scan_6">
+		                            <text startPos="1" regEx="">no_check</text>
+		                        </scan>
+		                        <scan index="7" name="scan_7">
+		                            <text startPos="1" regEx="">no_check</text>
+		                        </scan>
+		                        <scan index="8" name="scan_8">
+		                            <text startPos="1" regEx="">no_check</text>
+		                        </scan>
+		                    </scanList>
+		                </component>
+		            </workingData>
+		        </visualControl>
+		    </body>
+		</krosy>
+

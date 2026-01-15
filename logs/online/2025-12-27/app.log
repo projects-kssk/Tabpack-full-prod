@@ -1,0 +1,4158 @@
+2025-12-27 08:11:57,360 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/
+	Body: None
+
+2025-12-27 08:11:57,362 - RESPONSE:
+	Status: 200
+	Process time: 0.008s
+	Body:
+		{
+			"status": "ok",
+			"message": "API is running"
+		}
+
+2025-12-27 09:07:40,654 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/index.html
+	Body: None
+
+2025-12-27 09:07:40,655 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:07:40,964 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/dashboard.html
+	Body: None
+
+2025-12-27 09:07:40,965 - RESPONSE:
+	Status: 404
+	Process time: 0.004s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:07:41,168 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/mics/login.jsp
+	Body: None
+
+2025-12-27 09:07:41,169 - RESPONSE:
+	Status: 404
+	Process time: 0.003s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:07:43,065 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/mifs/user/login.jsp
+	Body: None
+
+2025-12-27 09:07:43,066 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:07:44,227 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/dana-na/auth/url_default/welcome.cgi
+	Body: None
+
+2025-12-27 09:07:44,228 - RESPONSE:
+	Status: 404
+	Process time: 0.003s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:07:44,523 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/dana-na/auth/url_admin/welcome.cgi
+	Body: None
+
+2025-12-27 09:07:44,525 - RESPONSE:
+	Status: 404
+	Process time: 0.004s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:07:46,615 - REQUEST:
+	Endpoint: POST http://172.29.242.29:4444/wsman/
+	Body: None
+
+2025-12-27 09:07:46,617 - RESPONSE:
+	Status: 404
+	Process time: 0.005s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:07:47,216 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/courier/
+	Body: None
+
+2025-12-27 09:07:47,217 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:07:47,517 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/
+	Body: None
+
+2025-12-27 09:07:47,517 - RESPONSE:
+	Status: 200
+	Process time: 0.003s
+	Body:
+		{
+			"status": "ok",
+			"message": "API is running"
+		}
+
+2025-12-27 09:07:50,011 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/owa/auth/logon.aspx
+	Body: None
+
+2025-12-27 09:07:50,012 - RESPONSE:
+	Status: 404
+	Process time: 0.005s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:07:50,333 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/exchange/logon.asp
+	Body: None
+
+2025-12-27 09:07:50,334 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:07:59,142 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/cgi-bin/
+	Body: None
+
+2025-12-27 09:07:59,143 - RESPONSE:
+	Status: 404
+	Process time: 0.005s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:08:12,898 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/vsapres/web20/core/login.aspx
+	Body: None
+
+2025-12-27 09:08:12,900 - RESPONSE:
+	Status: 404
+	Process time: 0.005s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:11:28,793 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/
+	Body: None
+
+2025-12-27 09:11:28,795 - RESPONSE:
+	Status: 200
+	Process time: 0.006s
+	Body:
+		{
+			"status": "ok",
+			"message": "API is running"
+		}
+
+2025-12-27 09:11:28,859 - REQUEST:
+	Endpoint: OPTIONS http://172.29.242.29:4444/
+	Body: None
+
+2025-12-27 09:11:28,860 - RESPONSE:
+	Status: 405
+	Process time: 0.003s
+	Body:
+		{
+			"detail": "Method Not Allowed"
+		}
+
+2025-12-27 09:11:28,922 - REQUEST:
+	Endpoint: PROPFIND http://172.29.242.29:4444/
+	Body: None
+
+2025-12-27 09:11:28,922 - RESPONSE:
+	Status: 405
+	Process time: 0.001s
+	Body:
+		{
+			"detail": "Method Not Allowed"
+		}
+
+2025-12-27 09:11:28,982 - REQUEST:
+	Endpoint: OPTIONS http://172.29.242.29:4444*
+	Body: None
+
+2025-12-27 09:11:28,983 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:11:29,042 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/favicon.ico
+	Body: None
+
+2025-12-27 09:11:29,043 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:24,333 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/Rapid7/JBoss/version-check-ofiq51.html
+	Body: None
+
+2025-12-27 09:32:24,334 - RESPONSE:
+	Status: 404
+	Process time: 0.005s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:25,076 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/console/login/LoginForm.jsp
+	Body: None
+
+2025-12-27 09:32:25,077 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:31,216 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/
+	Body: None
+
+2025-12-27 09:32:31,218 - RESPONSE:
+	Status: 200
+	Process time: 0.006s
+	Body:
+		{
+			"status": "ok",
+			"message": "API is running"
+		}
+
+2025-12-27 09:32:36,950 - REQUEST:
+	Endpoint: GET http://172.29.242.29/login.php
+	Body: None
+
+2025-12-27 09:32:36,951 - RESPONSE:
+	Status: 404
+	Process time: 0.004s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:37,015 - REQUEST:
+	Endpoint: GET http://172.29.242.29/login.zul
+	Body: None
+
+2025-12-27 09:32:37,016 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:37,074 - REQUEST:
+	Endpoint: GET http://172.29.242.29/am_bin/amlogin
+	Body: None
+
+2025-12-27 09:32:37,075 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:37,134 - REQUEST:
+	Endpoint: GET http://172.29.242.29/helpdesk/WebObjects/Helpdesk.woa
+	Body: None
+
+2025-12-27 09:32:37,135 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:37,194 - REQUEST:
+	Endpoint: GET http://172.29.242.29/wordpress/wp-login.php
+	Body: None
+
+2025-12-27 09:32:37,195 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:37,254 - REQUEST:
+	Endpoint: GET http://172.29.242.29/xmlpserver/
+	Body: None
+
+2025-12-27 09:32:37,255 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:37,314 - REQUEST:
+	Endpoint: GET http://172.29.242.29/login.html
+	Body: None
+
+2025-12-27 09:32:37,315 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:37,373 - REQUEST:
+	Endpoint: GET http://172.29.242.29/api/v1/get_session
+	Body: None
+
+2025-12-27 09:32:37,374 - RESPONSE:
+	Status: 404
+	Process time: 0.001s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:37,434 - REQUEST:
+	Endpoint: GET http://172.29.242.29/session.php?_dc=1748340139121
+	Body: None
+
+2025-12-27 09:32:37,435 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:37,494 - REQUEST:
+	Endpoint: GET http://172.29.242.29/services/Version
+	Body: None
+
+2025-12-27 09:32:37,495 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:37,554 - REQUEST:
+	Endpoint: GET http://172.29.242.29/owa/auth/logon.aspx
+	Body: None
+
+2025-12-27 09:32:37,555 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:37,614 - REQUEST:
+	Endpoint: GET http://172.29.242.29/old/get_session
+	Body: None
+
+2025-12-27 09:32:37,615 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:37,674 - REQUEST:
+	Endpoint: GET http://172.29.242.29/admin/public/index.html
+	Body: None
+
+2025-12-27 09:32:37,675 - RESPONSE:
+	Status: 404
+	Process time: 0.001s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:37,735 - REQUEST:
+	Endpoint: GET http://172.29.242.29/session?aimGetProp=fwVersionFull
+	Body: None
+
+2025-12-27 09:32:37,736 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:37,799 - REQUEST:
+	Endpoint: GET http://172.29.242.29/ui/login.action
+	Body: None
+
+2025-12-27 09:32:37,800 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:37,859 - REQUEST:
+	Endpoint: GET http://172.29.242.29/signin.php
+	Body: None
+
+2025-12-27 09:32:37,859 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:37,918 - REQUEST:
+	Endpoint: GET http://172.29.242.29/api/v1/appconfiguration/
+	Body: None
+
+2025-12-27 09:32:37,919 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:37,982 - REQUEST:
+	Endpoint: GET http://172.29.242.29/dotnetnuke
+	Body: None
+
+2025-12-27 09:32:37,982 - RESPONSE:
+	Status: 404
+	Process time: 0.001s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:38,043 - REQUEST:
+	Endpoint: GET http://172.29.242.29/version
+	Body: None
+
+2025-12-27 09:32:38,044 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:38,102 - REQUEST:
+	Endpoint: GET http://172.29.242.29/login.jsp
+	Body: None
+
+2025-12-27 09:32:38,103 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:38,163 - REQUEST:
+	Endpoint: GET http://172.29.242.29/login.aspx
+	Body: None
+
+2025-12-27 09:32:38,164 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:38,227 - REQUEST:
+	Endpoint: GET http://172.29.242.29/login.action
+	Body: None
+
+2025-12-27 09:32:38,227 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:38,290 - REQUEST:
+	Endpoint: GET http://172.29.242.29/jira/secure/Dashboard.jspa
+	Body: None
+
+2025-12-27 09:32:38,291 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:38,351 - REQUEST:
+	Endpoint: GET http://172.29.242.29/allversions
+	Body: None
+
+2025-12-27 09:32:38,352 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:38,410 - REQUEST:
+	Endpoint: GET http://172.29.242.29/rails/info/properties
+	Body: None
+
+2025-12-27 09:32:38,410 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:38,470 - REQUEST:
+	Endpoint: GET http://172.29.242.29/geoserver/web/
+	Body: None
+
+2025-12-27 09:32:38,470 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:38,536 - REQUEST:
+	Endpoint: GET http://172.29.242.29/get_session
+	Body: None
+
+2025-12-27 09:32:38,537 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:38,598 - REQUEST:
+	Endpoint: GET http://172.29.242.29/secure/Dashboard.jspa
+	Body: None
+
+2025-12-27 09:32:38,599 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:38,659 - REQUEST:
+	Endpoint: GET http://172.29.242.29/wordpress
+	Body: None
+
+2025-12-27 09:32:38,659 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:38,718 - REQUEST:
+	Endpoint: GET http://172.29.242.29/userportal/webpages/myaccount/login.jsp
+	Body: None
+
+2025-12-27 09:32:38,719 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:38,778 - REQUEST:
+	Endpoint: GET http://172.29.242.29/rest/api/latest/serverInfo
+	Body: None
+
+2025-12-27 09:32:38,779 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:38,838 - REQUEST:
+	Endpoint: GET http://172.29.242.29/user
+	Body: None
+
+2025-12-27 09:32:38,839 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:38,903 - REQUEST:
+	Endpoint: GET http://172.29.242.29/checkbox
+	Body: None
+
+2025-12-27 09:32:38,903 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:38,963 - REQUEST:
+	Endpoint: GET http://172.29.242.29/jspwebshell12.jsp
+	Body: None
+
+2025-12-27 09:32:38,963 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:39,023 - REQUEST:
+	Endpoint: GET http://172.29.242.29/freePBX/admin/config.php
+	Body: None
+
+2025-12-27 09:32:39,023 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:39,081 - REQUEST:
+	Endpoint: GET http://172.29.242.29/rpc/long_version
+	Body: None
+
+2025-12-27 09:32:39,082 - RESPONSE:
+	Status: 404
+	Process time: 0.001s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:39,138 - REQUEST:
+	Endpoint: GET http://172.29.242.29/versa/login/
+	Body: None
+
+2025-12-27 09:32:39,139 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:39,197 - REQUEST:
+	Endpoint: GET http://172.29.242.29/cgi-bin/welcome
+	Body: None
+
+2025-12-27 09:32:39,198 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:39,258 - REQUEST:
+	Endpoint: GET http://172.29.242.29/admin_ui/mas/ent/login.html
+	Body: None
+
+2025-12-27 09:32:39,258 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:39,319 - REQUEST:
+	Endpoint: GET http://172.29.242.29/crowd/console/login.jsp
+	Body: None
+
+2025-12-27 09:32:39,320 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:39,378 - REQUEST:
+	Endpoint: GET http://172.29.242.29/console/App.html
+	Body: None
+
+2025-12-27 09:32:39,379 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:39,438 - REQUEST:
+	Endpoint: GET http://172.29.242.29/sugar_version.json
+	Body: None
+
+2025-12-27 09:32:39,439 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:39,502 - REQUEST:
+	Endpoint: GET http://172.29.242.29/home.asp
+	Body: None
+
+2025-12-27 09:32:39,503 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:39,562 - REQUEST:
+	Endpoint: GET http://172.29.242.29/solr/
+	Body: None
+
+2025-12-27 09:32:39,563 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:39,622 - REQUEST:
+	Endpoint: GET http://172.29.242.29/Logon.aspx
+	Body: None
+
+2025-12-27 09:32:39,623 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:39,683 - REQUEST:
+	Endpoint: GET http://172.29.242.29/
+	Body: None
+
+2025-12-27 09:32:39,684 - RESPONSE:
+	Status: 200
+	Process time: 0.003s
+	Body:
+		{
+			"status": "ok",
+			"message": "API is running"
+		}
+
+2025-12-27 09:32:39,762 - REQUEST:
+	Endpoint: GET http://172.29.242.29/jspwebshell.jsp
+	Body: None
+
+2025-12-27 09:32:39,763 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:39,822 - REQUEST:
+	Endpoint: GET http://172.29.242.29/console/login/LoginForm.jsp
+	Body: None
+
+2025-12-27 09:32:39,822 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:39,884 - REQUEST:
+	Endpoint: GET http://172.29.242.29/wordpress/readme.html
+	Body: None
+
+2025-12-27 09:32:39,885 - RESPONSE:
+	Status: 404
+	Process time: 0.001s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:39,942 - REQUEST:
+	Endpoint: GET http://172.29.242.29/browser_extension_api/is_browser_extension_api_available
+	Body: None
+
+2025-12-27 09:32:39,942 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:40,006 - REQUEST:
+	Endpoint: GET http://172.29.242.29/JSPWiki/
+	Body: None
+
+2025-12-27 09:32:40,007 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:40,066 - REQUEST:
+	Endpoint: GET http://172.29.242.29/solr/admin/info/system?wt=json
+	Body: None
+
+2025-12-27 09:32:40,066 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:40,126 - REQUEST:
+	Endpoint: GET http://172.29.242.29/sysmgmt/2015/bmc/info
+	Body: None
+
+2025-12-27 09:32:40,127 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:40,186 - REQUEST:
+	Endpoint: GET http://172.29.242.29/webconsole/webpages/login.jsp
+	Body: None
+
+2025-12-27 09:32:40,187 - RESPONSE:
+	Status: 404
+	Process time: 0.001s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:40,246 - REQUEST:
+	Endpoint: GET http://172.29.242.29/webtools/control/main
+	Body: None
+
+2025-12-27 09:32:40,247 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:40,310 - REQUEST:
+	Endpoint: GET http://172.29.242.29/cgi-bin/login.cgi
+	Body: None
+
+2025-12-27 09:32:40,311 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:40,370 - REQUEST:
+	Endpoint: GET http://172.29.242.29/index.php
+	Body: None
+
+2025-12-27 09:32:40,370 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:40,430 - REQUEST:
+	Endpoint: GET http://172.29.242.29/configurations.do
+	Body: None
+
+2025-12-27 09:32:40,430 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:40,490 - REQUEST:
+	Endpoint: GET http://172.29.242.29/fuelcms
+	Body: None
+
+2025-12-27 09:32:40,491 - RESPONSE:
+	Status: 404
+	Process time: 0.001s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:40,550 - REQUEST:
+	Endpoint: GET http://172.29.242.29/unified-console.html
+	Body: None
+
+2025-12-27 09:32:40,551 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:40,610 - REQUEST:
+	Endpoint: GET http://172.29.242.29/rest/servicedeskapi/info
+	Body: None
+
+2025-12-27 09:32:40,611 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:40,671 - REQUEST:
+	Endpoint: GET http://172.29.242.29/thisisnotavalidpath
+	Body: None
+
+2025-12-27 09:32:40,671 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:40,735 - REQUEST:
+	Endpoint: GET http://172.29.242.29/Cityworks/Login.aspx
+	Body: None
+
+2025-12-27 09:32:40,735 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:40,794 - REQUEST:
+	Endpoint: GET http://172.29.242.29/selfservice/index.html
+	Body: None
+
+2025-12-27 09:32:40,794 - RESPONSE:
+	Status: 404
+	Process time: 0.001s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:40,854 - REQUEST:
+	Endpoint: GET http://172.29.242.29/version/openshift
+	Body: None
+
+2025-12-27 09:32:40,855 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:40,914 - REQUEST:
+	Endpoint: GET http://172.29.242.29/sgms/login
+	Body: None
+
+2025-12-27 09:32:40,915 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:40,975 - REQUEST:
+	Endpoint: GET http://172.29.242.29/ScadaBR/login.htm
+	Body: None
+
+2025-12-27 09:32:40,976 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:41,034 - REQUEST:
+	Endpoint: GET http://172.29.242.29/portal/loginpage.aspx
+	Body: None
+
+2025-12-27 09:32:41,035 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:41,094 - REQUEST:
+	Endpoint: GET http://172.29.242.29/WebInterface/login.html
+	Body: None
+
+2025-12-27 09:32:41,094 - RESPONSE:
+	Status: 404
+	Process time: 0.001s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:41,154 - REQUEST:
+	Endpoint: GET http://172.29.242.29/photostation
+	Body: None
+
+2025-12-27 09:32:41,155 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:41,214 - REQUEST:
+	Endpoint: GET http://172.29.242.29/magento_version
+	Body: None
+
+2025-12-27 09:32:41,215 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:41,274 - REQUEST:
+	Endpoint: GET http://172.29.242.29/admin/config.php
+	Body: None
+
+2025-12-27 09:32:41,275 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:41,339 - REQUEST:
+	Endpoint: GET http://172.29.242.29/sgms/auth
+	Body: None
+
+2025-12-27 09:32:41,340 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:41,398 - REQUEST:
+	Endpoint: GET http://172.29.242.29/hpdm/
+	Body: None
+
+2025-12-27 09:32:41,398 - RESPONSE:
+	Status: 404
+	Process time: 0.001s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:41,458 - REQUEST:
+	Endpoint: GET http://172.29.242.29/home.aspx
+	Body: None
+
+2025-12-27 09:32:41,459 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:41,518 - REQUEST:
+	Endpoint: GET http://172.29.242.29/UDataArea?plugin=com.dell.oma.webplugins.AboutWebPlugin&vid=
+	Body: None
+
+2025-12-27 09:32:41,518 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:41,578 - REQUEST:
+	Endpoint: GET http://172.29.242.29/confluence
+	Body: None
+
+2025-12-27 09:32:41,579 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:41,743 - REQUEST:
+	Endpoint: GET http://172.29.242.29/AHT/AHT_UI/public/js/app.min.js
+	Body: None
+
+2025-12-27 09:32:41,744 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:41,802 - REQUEST:
+	Endpoint: GET http://172.29.242.29/index.php?title=Main_Page
+	Body: None
+
+2025-12-27 09:32:41,802 - RESPONSE:
+	Status: 404
+	Process time: 0.001s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:41,858 - REQUEST:
+	Endpoint: GET http://172.29.242.29/login
+	Body: None
+
+2025-12-27 09:32:41,859 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:41,922 - REQUEST:
+	Endpoint: GET http://172.29.242.29/rest/api/latest/application-properties
+	Body: None
+
+2025-12-27 09:32:41,922 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:41,982 - REQUEST:
+	Endpoint: GET http://172.29.242.29/config
+	Body: None
+
+2025-12-27 09:32:41,982 - RESPONSE:
+	Status: 404
+	Process time: 0.001s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:42,043 - REQUEST:
+	Endpoint: GET http://172.29.242.29/wordpress/feed
+	Body: None
+
+2025-12-27 09:32:42,043 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:42,108 - REQUEST:
+	Endpoint: GET http://172.29.242.29/web/guest/home
+	Body: None
+
+2025-12-27 09:32:42,109 - RESPONSE:
+	Status: 404
+	Process time: 0.001s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:42,173 - REQUEST:
+	Endpoint: GET http://172.29.242.29/portal/webclient/index.html
+	Body: None
+
+2025-12-27 09:32:42,174 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:42,238 - REQUEST:
+	Endpoint: GET http://172.29.242.29/reviews
+	Body: None
+
+2025-12-27 09:32:42,239 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:42,299 - REQUEST:
+	Endpoint: GET http://172.29.242.29/opencrx-core-CRX/Login.jsp
+	Body: None
+
+2025-12-27 09:32:42,300 - RESPONSE:
+	Status: 404
+	Process time: 0.001s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:42,365 - REQUEST:
+	Endpoint: GET http://172.29.242.29/css/eonweb.css
+	Body: None
+
+2025-12-27 09:32:42,365 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:42,427 - REQUEST:
+	Endpoint: GET http://172.29.242.29/cgi-bin/cgitest
+	Body: None
+
+2025-12-27 09:32:42,428 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:42,492 - REQUEST:
+	Endpoint: GET http://172.29.242.29/goanywhere/auth/Login.xhtml
+	Body: None
+
+2025-12-27 09:32:42,493 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:42,559 - REQUEST:
+	Endpoint: GET http://172.29.242.29/mediawiki/index.php?title=Main_Page
+	Body: None
+
+2025-12-27 09:32:42,560 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:42,623 - REQUEST:
+	Endpoint: GET http://172.29.242.29/dana-na/auth/url_admin/welcome.cgi
+	Body: None
+
+2025-12-27 09:32:42,624 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:42,697 - REQUEST:
+	Endpoint: GET http://172.29.242.29/corporate/webpages/login.jsp
+	Body: None
+
+2025-12-27 09:32:42,698 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:42,761 - REQUEST:
+	Endpoint: GET http://172.29.242.29/ecp
+	Body: None
+
+2025-12-27 09:32:42,761 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:42,823 - REQUEST:
+	Endpoint: GET http://172.29.242.29/css/menu.css
+	Body: None
+
+2025-12-27 09:32:42,824 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:42,885 - REQUEST:
+	Endpoint: GET http://172.29.242.29/freepbx/admin/config.php
+	Body: None
+
+2025-12-27 09:32:42,886 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:42,952 - REQUEST:
+	Endpoint: GET http://172.29.242.29/get_rdf?comp=sdcust&locale_code=en-us
+	Body: None
+
+2025-12-27 09:32:42,953 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:43,020 - REQUEST:
+	Endpoint: GET http://172.29.242.29/SAAS/API/1.0/REST/admin/localize?patternString=errors.404,layout.copyright,layout.patentslink,layout.buildVersion
+	Body: None
+
+2025-12-27 09:32:43,021 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:43,086 - REQUEST:
+	Endpoint: GET http://172.29.242.29/restapi/system
+	Body: None
+
+2025-12-27 09:32:43,087 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:43,147 - REQUEST:
+	Endpoint: GET http://172.29.242.29/rapid7
+	Body: None
+
+2025-12-27 09:32:43,147 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:43,174 - REQUEST:
+	Endpoint: GET http://172.29.242.29/aspera/faspex
+	Body: None
+
+2025-12-27 09:32:43,175 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:43,235 - REQUEST:
+	Endpoint: GET http://172.29.242.29/Agile/default/login-cms.jsp
+	Body: None
+
+2025-12-27 09:32:43,236 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:43,294 - REQUEST:
+	Endpoint: GET http://172.29.242.29/CHANGELOG.txt
+	Body: None
+
+2025-12-27 09:32:43,295 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:43,355 - REQUEST:
+	Endpoint: GET http://172.29.242.29/sitecore/shell/sitecore.version.xml
+	Body: None
+
+2025-12-27 09:32:43,356 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:43,413 - REQUEST:
+	Endpoint: GET http://172.29.242.29/php/login.php
+	Body: None
+
+2025-12-27 09:32:43,414 - RESPONSE:
+	Status: 404
+	Process time: 0.001s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:43,474 - REQUEST:
+	Endpoint: GET http://172.29.242.29/info/Login.html
+	Body: None
+
+2025-12-27 09:32:43,475 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:43,534 - REQUEST:
+	Endpoint: GET http://172.29.242.29/irj/portal
+	Body: None
+
+2025-12-27 09:32:43,535 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:43,593 - REQUEST:
+	Endpoint: GET http://172.29.242.29/index.php/login
+	Body: None
+
+2025-12-27 09:32:43,594 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:43,654 - REQUEST:
+	Endpoint: GET http://172.29.242.29/qnap
+	Body: None
+
+2025-12-27 09:32:43,655 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:43,714 - REQUEST:
+	Endpoint: GET http://172.29.242.29/PassTrixMain.cc
+	Body: None
+
+2025-12-27 09:32:43,715 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:43,774 - REQUEST:
+	Endpoint: GET http://172.29.242.29/fuel
+	Body: None
+
+2025-12-27 09:32:43,775 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:43,835 - REQUEST:
+	Endpoint: GET http://172.29.242.29/Orion/Login.aspx
+	Body: None
+
+2025-12-27 09:32:43,835 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:45,524 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/servlet/
+	Body: None
+
+2025-12-27 09:32:45,525 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:45,674 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/
+	Body: None
+
+2025-12-27 09:32:45,675 - RESPONSE:
+	Status: 200
+	Process time: 0.004s
+	Body:
+		{
+			"status": "ok",
+			"message": "API is running"
+		}
+
+2025-12-27 09:32:45,704 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/xmldata?item=All
+	Body: None
+
+2025-12-27 09:32:45,704 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:45,856 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/
+	Body: None
+
+2025-12-27 09:32:45,857 - RESPONSE:
+	Status: 200
+	Process time: 0.003s
+	Body:
+		{
+			"status": "ok",
+			"message": "API is running"
+		}
+
+2025-12-27 09:32:46,035 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/
+	Body: None
+
+2025-12-27 09:32:46,036 - RESPONSE:
+	Status: 200
+	Process time: 0.003s
+	Body:
+		{
+			"status": "ok",
+			"message": "API is running"
+		}
+
+2025-12-27 09:32:47,230 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/
+	Body: None
+
+2025-12-27 09:32:47,231 - RESPONSE:
+	Status: 200
+	Process time: 0.002s
+	Body:
+		{
+			"status": "ok",
+			"message": "API is running"
+		}
+
+2025-12-27 09:32:48,341 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/administrator/manifests/files/joomla.xml
+	Body: None
+
+2025-12-27 09:32:48,341 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:48,371 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/administrator/language/en-GB/en-GB.xml
+	Body: None
+
+2025-12-27 09:32:48,371 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:48,400 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/language/en-GB/en-GB.xml
+	Body: None
+
+2025-12-27 09:32:48,401 - RESPONSE:
+	Status: 404
+	Process time: 0.001s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:48,431 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/joomla/administrator/manifests/files/joomla.xml
+	Body: None
+
+2025-12-27 09:32:48,431 - RESPONSE:
+	Status: 404
+	Process time: 0.001s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:48,460 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/joomla/administrator/language/en-GB/en-GB.xml
+	Body: None
+
+2025-12-27 09:32:48,460 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:48,490 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/joomla/language/en-GB/en-GB.xml
+	Body: None
+
+2025-12-27 09:32:48,491 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:50,114 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/spiffymcgee.nsf
+	Body: None
+
+2025-12-27 09:32:50,115 - RESPONSE:
+	Status: 404
+	Process time: 0.003s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:50,797 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/owa/auth/logon.aspx
+	Body: None
+
+2025-12-27 09:32:50,799 - RESPONSE:
+	Status: 404
+	Process time: 0.004s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:50,862 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/exchange/logon.asp
+	Body: None
+
+2025-12-27 09:32:50,863 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:54,625 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/spiffymcgee.jsp
+	Body: None
+
+2025-12-27 09:32:54,626 - RESPONSE:
+	Status: 404
+	Process time: 0.003s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:55,460 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/
+	Body: None
+
+2025-12-27 09:32:55,461 - RESPONSE:
+	Status: 200
+	Process time: 0.005s
+	Body:
+		{
+			"status": "ok",
+			"message": "API is running"
+		}
+
+2025-12-27 09:32:55,590 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/
+	Body: None
+
+2025-12-27 09:32:55,591 - RESPONSE:
+	Status: 200
+	Process time: 0.004s
+	Body:
+		{
+			"status": "ok",
+			"message": "API is running"
+		}
+
+2025-12-27 09:32:55,620 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/jbossws/
+	Body: None
+
+2025-12-27 09:32:55,621 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:55,650 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/invoker/
+	Body: None
+
+2025-12-27 09:32:55,651 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:55,680 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/jbossmq-httpil/
+	Body: None
+
+2025-12-27 09:32:55,681 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:55,709 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/status/
+	Body: None
+
+2025-12-27 09:32:55,710 - RESPONSE:
+	Status: 404
+	Process time: 0.001s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:56,948 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/spiffymcgee.cfm
+	Body: None
+
+2025-12-27 09:32:56,949 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:57,155 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/phpmyadmin/
+	Body: None
+
+2025-12-27 09:32:57,156 - RESPONSE:
+	Status: 404
+	Process time: 0.003s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:57,236 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/console/faces/com_sun_web_ui/jsp/version/version_30.jsp
+	Body: None
+
+2025-12-27 09:32:57,237 - RESPONSE:
+	Status: 404
+	Process time: 0.001s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:57,264 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/console/faces/com_sun_web_ui/jsp/version/version_4.jsp
+	Body: None
+
+2025-12-27 09:32:57,265 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:57,332 - REQUEST:
+	Endpoint: POST http://172.29.242.29:4444/xmlrpc.php
+	Body: None
+
+2025-12-27 09:32:57,333 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:57,334 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/login
+	Body: None
+
+2025-12-27 09:32:57,335 - RESPONSE:
+	Status: 404
+	Process time: 0.003s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:57,337 - REQUEST:
+	Endpoint: POST http://172.29.242.29:4444/lucee/admin/ext.applications.upload.cfm
+	Body: None
+
+2025-12-27 09:32:57,337 - RESPONSE:
+	Status: 404
+	Process time: 0.001s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:57,364 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/Orion/Login.aspx
+	Body: None
+
+2025-12-27 09:32:57,365 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:57,367 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/api/getServices?name[]=$()
+	Body: None
+
+2025-12-27 09:32:57,368 - RESPONSE:
+	Status: 404
+	Process time: 0.005s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:57,395 - REQUEST:
+	Endpoint: POST http://172.29.242.29:4444/serendipity/serendipity_xmlrpc.php
+	Body: None
+
+2025-12-27 09:32:57,395 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:57,398 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/cgi-bin/php.ini
+	Body: None
+
+2025-12-27 09:32:57,399 - RESPONSE:
+	Status: 404
+	Process time: 0.005s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:57,402 - REQUEST:
+	Endpoint: POST http://172.29.242.29:4444/account
+	Body: None
+
+2025-12-27 09:32:57,403 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:57,429 - REQUEST:
+	Endpoint: POST http://172.29.242.29:4444/cgi-bin/test-cgi
+	Body: None
+
+2025-12-27 09:32:57,430 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:57,432 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/Telerik.Web.UI.WebResource.axd?type=rau
+	Body: None
+
+2025-12-27 09:32:57,432 - RESPONSE:
+	Status: 404
+	Process time: 0.001s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:57,458 - REQUEST:
+	Endpoint: POST http://172.29.242.29:4444/serendipity/xmlrpc.php
+	Body: None
+
+2025-12-27 09:32:57,459 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:57,462 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/login
+	Body: None
+
+2025-12-27 09:32:57,463 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:57,467 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/cgi-bin/view-source?../../../../../../../etc/passwd
+	Body: None
+
+2025-12-27 09:32:57,468 - RESPONSE:
+	Status: 404
+	Process time: 0.003s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:57,474 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/login
+	Body: None
+
+2025-12-27 09:32:57,475 - RESPONSE:
+	Status: 404
+	Process time: 0.008s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:57,492 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/cgi-bin/faxsurvey?/bin/cat%20/etc/passwd
+	Body: None
+
+2025-12-27 09:32:57,493 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:57,503 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/moveitisapi/moveitisapi.dll?action=capa
+	Body: None
+
+2025-12-27 09:32:57,504 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:57,507 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/
+	Body: None
+
+2025-12-27 09:32:57,508 - RESPONSE:
+	Status: 200
+	Process time: 0.007s
+	Body:
+		{
+			"status": "ok",
+			"message": "API is running"
+		}
+
+2025-12-27 09:32:57,522 - REQUEST:
+	Endpoint: POST http://172.29.242.29:4444/drupal/xmlrpc.php
+	Body: None
+
+2025-12-27 09:32:57,523 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:57,532 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/public/template.cgi?templatefile=$(id)
+	Body: None
+
+2025-12-27 09:32:57,532 - RESPONSE:
+	Status: 404
+	Process time: 0.001s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:57,536 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/
+	Body: None
+
+2025-12-27 09:32:57,536 - RESPONSE:
+	Status: 200
+	Process time: 0.001s
+	Body:
+		{
+			"status": "ok",
+			"message": "API is running"
+		}
+
+2025-12-27 09:32:57,553 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/cgi-bin/faxquery?/bin/cat%20/etc/passwd
+	Body: None
+
+2025-12-27 09:32:57,554 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:57,559 - REQUEST:
+	Endpoint: POST http://172.29.242.29:4444/service/rapture/session
+	Body: None
+
+2025-12-27 09:32:57,560 - RESPONSE:
+	Status: 404
+	Process time: 0.001s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:57,564 - REQUEST:
+	Endpoint: POST http://172.29.242.29:4444/cgi-bin/file_transfer.cgi
+	Body: None
+
+2025-12-27 09:32:57,565 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:57,582 - REQUEST:
+	Endpoint: POST http://172.29.242.29:4444/bblog/xmlrpc.php
+	Body: None
+
+2025-12-27 09:32:57,583 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:57,587 - REQUEST:
+	Endpoint: POST http://172.29.242.29:4444/javax.faces.resource/dynamiccontent.properties.xhtml
+	Body: None
+
+2025-12-27 09:32:57,588 - RESPONSE:
+	Status: 404
+	Process time: 0.003s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:57,591 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/cgi-bin/awstats.pl?PluginMode=:print+%22x%22%2e(1042+%2b+1099)%2e%22x%22;
+	Body: None
+
+2025-12-27 09:32:57,592 - RESPONSE:
+	Status: 404
+	Process time: 0.005s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:57,596 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/cgi-bin/htmlscript?../../../../../../../etc/passwd
+	Body: None
+
+2025-12-27 09:32:57,596 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:57,626 - REQUEST:
+	Endpoint: POST http://172.29.242.29:4444/flex2gateway/http
+	Body: None
+
+2025-12-27 09:32:57,627 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:57,637 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/c99.php
+	Body: None
+
+2025-12-27 09:32:57,638 - RESPONSE:
+	Status: 404
+	Process time: 0.001s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:57,641 - REQUEST:
+	Endpoint: POST http://172.29.242.29:4444/blogs/xmlsrv/xmlrpc.php
+	Body: None
+
+2025-12-27 09:32:57,641 - RESPONSE:
+	Status: 404
+	Process time: 0.001s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:57,654 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/cgi-bin/awstats/awstats.pl?PluginMode=:print+%22x%22%2e(1042+%2b+1099)%2e%22x%22;
+	Body: None
+
+2025-12-27 09:32:57,654 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:57,666 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/iam/governance/applicationmanagement/api/v1/applications/groovyscriptstatus
+	Body: None
+
+2025-12-27 09:32:57,667 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:57,682 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/CFIDE/scheduler/
+	Body: None
+
+2025-12-27 09:32:57,682 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:57,686 - REQUEST:
+	Endpoint: POST http://172.29.242.29:4444/flex2gateway/httpsecure
+	Body: None
+
+2025-12-27 09:32:57,687 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:57,696 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/iam/governance/applicationmanagement/api/v1/applications/groovyscriptstatus
+	Body: None
+
+2025-12-27 09:32:57,697 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:57,702 - REQUEST:
+	Endpoint: POST http://172.29.242.29:4444/xmlsrv/xmlrpc.php
+	Body: None
+
+2025-12-27 09:32:57,703 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:57,709 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/CFIDE/servermanager/
+	Body: None
+
+2025-12-27 09:32:57,710 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:57,727 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/iam/governance/applicationmanagement/api/v1/applications/groovyscriptstatus
+	Body: None
+
+2025-12-27 09:32:57,727 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:57,737 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/CFIDE/componentutils/cfcexplorer.cfc?method=getcfcinhtml&name=CFIDE.componentutils.cfcexplorer&path=../../../license.txt
+	Body: None
+
+2025-12-27 09:32:57,738 - RESPONSE:
+	Status: 404
+	Process time: 0.001s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:57,749 - REQUEST:
+	Endpoint: POST http://172.29.242.29:4444/messagebroker/http
+	Body: None
+
+2025-12-27 09:32:57,750 - RESPONSE:
+	Status: 404
+	Process time: 0.001s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:57,756 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/login
+	Body: None
+
+2025-12-27 09:32:57,757 - RESPONSE:
+	Status: 404
+	Process time: 0.001s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:57,766 - REQUEST:
+	Endpoint: POST http://172.29.242.29:4444/xmlrpc/xmlrpc.php
+	Body: None
+
+2025-12-27 09:32:57,766 - RESPONSE:
+	Status: 404
+	Process time: 0.001s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:57,786 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/go/add-on/business-continuity/api/cruise_config
+	Body: None
+
+2025-12-27 09:32:57,787 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:57,798 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/CFIDE/componentutils/cfcexplorer.cfc?method=getcfcinhtml&name=CFIDE.componentutils.cfcexplorer&path=../../../../license.html
+	Body: None
+
+2025-12-27 09:32:57,798 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:57,814 - REQUEST:
+	Endpoint: POST http://172.29.242.29:4444/messagebroker/httpsecure
+	Body: None
+
+2025-12-27 09:32:57,815 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:57,818 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/login
+	Body: None
+
+2025-12-27 09:32:57,819 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:57,825 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/CFIDE/componentutils/
+	Body: None
+
+2025-12-27 09:32:57,826 - RESPONSE:
+	Status: 404
+	Process time: 0.001s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:57,830 - REQUEST:
+	Endpoint: POST http://172.29.242.29:4444/script/xmlrpc.php
+	Body: None
+
+2025-12-27 09:32:57,831 - RESPONSE:
+	Status: 404
+	Process time: 0.001s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:57,851 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/
+	Body: None
+
+2025-12-27 09:32:57,852 - RESPONSE:
+	Status: 200
+	Process time: 0.002s
+	Body:
+		{
+			"status": "ok",
+			"message": "API is running"
+		}
+
+2025-12-27 09:32:57,855 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/login
+	Body: None
+
+2025-12-27 09:32:57,856 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:57,860 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/_vti_bin/_vti_aut/author.dll
+	Body: None
+
+2025-12-27 09:32:57,860 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:57,867 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/bb/
+	Body: None
+
+2025-12-27 09:32:57,868 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:57,874 - REQUEST:
+	Endpoint: POST http://172.29.242.29:4444/blazeds/messagebroker/http
+	Body: None
+
+2025-12-27 09:32:57,874 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:57,880 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/login.do?jvar_page_title=<style><j:jelly%20xmlns:j=%22jelly%22%20xmlns:g=%27glide%27><g:evaluate>gs.addErrorMessage(1337*1337);</g:evaluate></j:jelly></style>
+	Body: None
+
+2025-12-27 09:32:57,881 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:57,889 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/CFIDE/portlets/
+	Body: None
+
+2025-12-27 09:32:57,890 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:57,893 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/CFIDE/websocket/
+	Body: None
+
+2025-12-27 09:32:57,893 - RESPONSE:
+	Status: 404
+	Process time: 0.005s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:57,899 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/KaseyaCwWebService/ManagedIT.asmx
+	Body: None
+
+2025-12-27 09:32:57,900 - RESPONSE:
+	Status: 404
+	Process time: 0.001s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:57,921 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/CFIDE/services/
+	Body: None
+
+2025-12-27 09:32:57,922 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:57,937 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/bin/get/Main/SolrSearch?media=rss&text=%7D%7D%7D%7B%7Basync%20async%3Dfalse%7D%7D%7B%7Bgroovy%7D%7Dprintln%28%22Hello%20from%22%20%2B%20%22%20search%20text%3A%22%20%2B%20%2823%20%2B%2019%29%29%7B%7B%2Fgroovy%7D%7D%7B%7B%2Fasync%7D%7D%20
+	Body: None
+
+2025-12-27 09:32:57,938 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:57,940 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/Orion/Login.aspx
+	Body: None
+
+2025-12-27 09:32:57,940 - RESPONSE:
+	Status: 404
+	Process time: 0.003s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:57,944 - REQUEST:
+	Endpoint: POST http://172.29.242.29:4444/RPC2_Login
+	Body: None
+
+2025-12-27 09:32:57,944 - RESPONSE:
+	Status: 404
+	Process time: 0.001s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:57,946 - REQUEST:
+	Endpoint: POST http://172.29.242.29:4444/blazeds/messagebroker/httpsecure
+	Body: None
+
+2025-12-27 09:32:57,946 - RESPONSE:
+	Status: 404
+	Process time: 0.001s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:57,956 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/mifs/aad/api/v2/ping
+	Body: None
+
+2025-12-27 09:32:57,956 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:57,964 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/mifs/asfV3/api/v2/ping
+	Body: None
+
+2025-12-27 09:32:57,964 - RESPONSE:
+	Status: 404
+	Process time: 0.001s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:57,978 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/cgi-bin/htsearch?Exclude=%60/etc/passwd%60
+	Body: None
+
+2025-12-27 09:32:57,979 - RESPONSE:
+	Status: 404
+	Process time: 0.003s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:57,982 - REQUEST:
+	Endpoint: POST http://172.29.242.29:4444/fileupload/toolsAny
+	Body: None
+
+2025-12-27 09:32:57,983 - RESPONSE:
+	Status: 404
+	Process time: 0.005s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:57,987 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/Orion/Login.aspx
+	Body: None
+
+2025-12-27 09:32:57,988 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:57,992 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/Orion/Login.aspx
+	Body: None
+
+2025-12-27 09:32:57,992 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:58,006 - REQUEST:
+	Endpoint: POST http://172.29.242.29:4444/samples/messagebroker/http
+	Body: None
+
+2025-12-27 09:32:58,008 - RESPONSE:
+	Status: 404
+	Process time: 0.003s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:58,011 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/xwiki/bin/get/Main/SolrSearch?media=rss&text=%7D%7D%7D%7B%7Basync%20async%3Dfalse%7D%7D%7B%7Bgroovy%7D%7Dprintln%28%22Hello%20from%22%20%2B%20%22%20search%20text%3A%22%20%2B%20%2823%20%2B%2019%29%29%7B%7B%2Fgroovy%7D%7D%7B%7B%2Fasync%7D%7D%20
+	Body: None
+
+2025-12-27 09:32:58,013 - RESPONSE:
+	Status: 404
+	Process time: 0.007s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:58,018 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/Orion/Login.aspx
+	Body: None
+
+2025-12-27 09:32:58,018 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/login
+	Body: None
+
+2025-12-27 09:32:58,020 - RESPONSE:
+	Status: 404
+	Process time: 0.008s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:58,022 - RESPONSE:
+	Status: 404
+	Process time: 0.01s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:58,025 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/jkstatus/
+	Body: None
+
+2025-12-27 09:32:58,026 - RESPONSE:
+	Status: 404
+	Process time: 0.009s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:58,028 - REQUEST:
+	Endpoint: POST http://172.29.242.29:4444/mifs/.;/services/LogService
+	Body: None
+
+2025-12-27 09:32:58,029 - RESPONSE:
+	Status: 404
+	Process time: 0.005s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:58,040 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/login
+	Body: None
+
+2025-12-27 09:32:58,040 - RESPONSE:
+	Status: 404
+	Process time: 0.001s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:58,054 - REQUEST:
+	Endpoint: GET http://localhost/CFIDE/administrator/enter.cfm?locale=../../../../../../../lib/password.properties%00en
+	Body: None
+
+2025-12-27 09:32:58,055 - RESPONSE:
+	Status: 404
+	Process time: 0.003s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:58,058 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/login
+	Body: None
+
+2025-12-27 09:32:58,060 - RESPONSE:
+	Status: 404
+	Process time: 0.007s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:58,062 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/premise/front/getPingData?url=http://0.0.0.0:9600/sm/api/v1/firewall/zone/services?zone=;/usr/bin/id;
+	Body: None
+
+2025-12-27 09:32:58,064 - RESPONSE:
+	Status: 404
+	Process time: 0.01s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:58,067 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/login
+	Body: None
+
+2025-12-27 09:32:58,068 - RESPONSE:
+	Status: 404
+	Process time: 0.009s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:58,072 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/api/fabric/device/status
+	Body: None
+
+2025-12-27 09:32:58,072 - REQUEST:
+	Endpoint: POST http://172.29.242.29:4444/samples/messagebroker/httpsecure
+	Body: None
+
+2025-12-27 09:32:58,073 - RESPONSE:
+	Status: 404
+	Process time: 0.005s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:58,075 - RESPONSE:
+	Status: 404
+	Process time: 0.007s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:58,085 - REQUEST:
+	Endpoint: POST http://172.29.242.29:4444/cgi-bin/luci/;stok=/locale?form=country
+	Body: None
+
+2025-12-27 09:32:58,086 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:58,090 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/scripts/tools/newdsn.exe?driver=Microsoft%2BAccess%2BDriver%2B%28*.mdb%29&dsn=Web%20SQL&dbq=c:%5Ctemp%5Cxyz.mdb&newdb=CREATE_DB&attr=
+	Body: None
+
+2025-12-27 09:32:58,091 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:58,096 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/CFIDE/adminapi/base.cfc?wsdl
+	Body: None
+
+2025-12-27 09:32:58,097 - RESPONSE:
+	Status: 404
+	Process time: 0.003s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:58,101 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/
+	Body: None
+
+2025-12-27 09:32:58,101 - RESPONSE:
+	Status: 200
+	Process time: 0.006s
+	Body:
+		{
+			"status": "ok",
+			"message": "API is running"
+		}
+
+2025-12-27 09:32:58,105 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/etc/mnt_info.csv
+	Body: None
+
+2025-12-27 09:32:58,106 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:58,114 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/login
+	Body: None
+
+2025-12-27 09:32:58,115 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:58,121 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/AdvWorks/equipment/catalog_type.asp?ProductType=|shell(%22c:cmd.exe%22)|
+	Body: None
+
+2025-12-27 09:32:58,122 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:58,126 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/Orion/Login.aspx
+	Body: None
+
+2025-12-27 09:32:58,127 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:58,130 - REQUEST:
+	Endpoint: POST http://172.29.242.29:4444/openam/oauth2/..;/ccversion/Version
+	Body: None
+
+2025-12-27 09:32:58,131 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:58,136 - REQUEST:
+	Endpoint: POST http://172.29.242.29:4444/lcds/messagebroker/http
+	Body: None
+
+2025-12-27 09:32:58,136 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/login
+	Body: None
+
+2025-12-27 09:32:58,137 - RESPONSE:
+	Status: 404
+	Process time: 0.003s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:58,139 - RESPONSE:
+	Status: 404
+	Process time: 0.005s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:58,144 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/cgi-bin/config.exp
+	Body: None
+
+2025-12-27 09:32:58,144 - RESPONSE:
+	Status: 404
+	Process time: 0.001s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:58,152 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/ASPSamp/AdvWorks/equipment/catalog_type.asp?ProductType=|shell(%22c:cmd.exe%22)|
+	Body: None
+
+2025-12-27 09:32:58,153 - RESPONSE:
+	Status: 404
+	Process time: 0.001s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:58,156 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/login
+	Body: None
+
+2025-12-27 09:32:58,157 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:58,161 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/login
+	Body: None
+
+2025-12-27 09:32:58,161 - RESPONSE:
+	Status: 404
+	Process time: 0.001s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:58,165 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/imc/fault/accessMgrServlet
+	Body: None
+
+2025-12-27 09:32:58,166 - RESPONSE:
+	Status: 404
+	Process time: 0.001s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:58,171 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/CFIDE/adminiapi/
+	Body: None
+
+2025-12-27 09:32:58,171 - RESPONSE:
+	Status: 404
+	Process time: 0.001s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:58,181 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/CFIDE/administrator/
+	Body: None
+
+2025-12-27 09:32:58,182 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:58,188 - REQUEST:
+	Endpoint: POST http://172.29.242.29:4444/cgi-bin/system_mgr.cgi?C1=ON&cmd=cgi_ntp_time&f_ntp_server=%60id%60
+	Body: None
+
+2025-12-27 09:32:58,189 - RESPONSE:
+	Status: 404
+	Process time: 0.001s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:58,192 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/conf/ssl/apache/integrity.key
+	Body: None
+
+2025-12-27 09:32:58,193 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:58,198 - REQUEST:
+	Endpoint: POST http://172.29.242.29:4444/lcds/messagebroker/httpsecure
+	Body: None
+
+2025-12-27 09:32:58,199 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:58,201 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/upgrade_handle.php?cmd=writeuploaddir&uploaddir=%27;id;%27
+	Body: None
+
+2025-12-27 09:32:58,202 - RESPONSE:
+	Status: 404
+	Process time: 0.004s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:58,206 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/CFIDE/AIR/
+	Body: None
+
+2025-12-27 09:32:58,206 - RESPONSE:
+	Status: 404
+	Process time: 0.001s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:58,217 - REQUEST:
+	Endpoint: HEAD http://172.29.242.29:4444/
+	Body: None
+
+2025-12-27 09:32:58,218 - RESPONSE:
+	Status: 405
+	Process time: 0.001s
+	Body:
+		{
+			"detail": "Method Not Allowed"
+		}
+
+2025-12-27 09:32:58,231 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/CFIDE/wizards/common/
+	Body: None
+
+2025-12-27 09:32:58,232 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:58,235 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/Orion/Login.aspx
+	Body: None
+
+2025-12-27 09:32:58,236 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:58,247 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/CFIDE/administrator/enter.cfm
+	Body: None
+
+2025-12-27 09:32:58,248 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:58,250 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/~bin/true
+	Body: None
+
+2025-12-27 09:32:58,252 - RESPONSE:
+	Status: 404
+	Process time: 0.006s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:58,255 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/conf/ssl/apache/integrity-smartcenter.key
+	Body: None
+
+2025-12-27 09:32:58,256 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:58,260 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/CFIDE/orm/
+	Body: None
+
+2025-12-27 09:32:58,261 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:58,265 - REQUEST:
+	Endpoint: POST http://172.29.242.29:4444/lcds-samples/messagebroker/http
+	Body: None
+
+2025-12-27 09:32:58,266 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:58,268 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/cgi-bin/param.cgi?get_device_conf
+	Body: None
+
+2025-12-27 09:32:58,269 - RESPONSE:
+	Status: 404
+	Process time: 0.005s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:58,277 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/login
+	Body: None
+
+2025-12-27 09:32:58,278 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:58,281 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/api/experimental/latest_runs
+	Body: None
+
+2025-12-27 09:32:58,282 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:58,286 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/cgi-bin/awstats.pl?debug=1
+	Body: None
+
+2025-12-27 09:32:58,286 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:58,290 - REQUEST:
+	Endpoint: POST http://172.29.242.29:4444/service/extdirect
+	Body: None
+
+2025-12-27 09:32:58,290 - RESPONSE:
+	Status: 404
+	Process time: 0.005s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:58,297 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/moveitisapi/moveitisapi.dll?action=capa
+	Body: None
+
+2025-12-27 09:32:58,298 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:58,307 - REQUEST:
+	Endpoint: POST http://172.29.242.29:4444/createou
+	Body: None
+
+2025-12-27 09:32:58,307 - RESPONSE:
+	Status: 404
+	Process time: 0.001s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:58,312 - REQUEST:
+	Endpoint: PUT http://172.29.242.29:4444/SDK/webLanguage
+	Body: None
+
+2025-12-27 09:32:58,313 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:58,320 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/index_sso.php
+	Body: None
+
+2025-12-27 09:32:58,321 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:58,326 - REQUEST:
+	Endpoint: POST http://172.29.242.29:4444/lcds-samples/messagebroker/httpsecure
+	Body: None
+
+2025-12-27 09:32:58,326 - RESPONSE:
+	Status: 404
+	Process time: 0.001s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:58,330 - REQUEST:
+	Endpoint: GET http://localhost/CFIDE/adminapi/customtags/l10n.cfm?attributes.id=test&attributes.file=../../administrator/mail/download.cfm&filename=../../lib/password.properties&attributes.locale=it&attributes.var=it&attributes.jscript=false&attributes.type=text/html&attributes.charset=UTF-8&thisTag.executionmode=end&thisTag.generatedContent=test
+	Body: None
+
+2025-12-27 09:32:58,331 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:58,335 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/admin
+	Body: None
+
+2025-12-27 09:32:58,336 - RESPONSE:
+	Status: 404
+	Process time: 0.001s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:58,345 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/login
+	Body: None
+
+2025-12-27 09:32:58,346 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:58,350 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/cgi-bin/awstats/awstats.pl?debug=1
+	Body: None
+
+2025-12-27 09:32:58,351 - RESPONSE:
+	Status: 404
+	Process time: 0.003s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:58,353 - REQUEST:
+	Endpoint: TRACE http://172.29.242.29:4444/
+	Body: None
+
+2025-12-27 09:32:58,354 - RESPONSE:
+	Status: 405
+	Process time: 0.005s
+	Body:
+		{
+			"detail": "Method Not Allowed"
+		}
+
+2025-12-27 09:32:58,358 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/moveitisapi/moveitisapi.dll?action=capa
+	Body: None
+
+2025-12-27 09:32:58,358 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:58,363 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/admin
+	Body: None
+
+2025-12-27 09:32:58,364 - RESPONSE:
+	Status: 404
+	Process time: 0.001s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:58,377 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/?class.module.classLoader.URLs%5B-1%5D=0
+	Body: None
+
+2025-12-27 09:32:58,379 - RESPONSE:
+	Status: 200
+	Process time: 0.005s
+	Body:
+		{
+			"status": "ok",
+			"message": "API is running"
+		}
+
+2025-12-27 09:32:58,384 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/cgi-bin/nas_sharing.cgi?user=mydlinkBRionyg&passwd=YWJjMTIzNDVjYmE&cmd=15&system=aWQ=
+	Body: None
+
+2025-12-27 09:32:58,385 - RESPONSE:
+	Status: 404
+	Process time: 0.003s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:58,387 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/CFIDE/appdeployment/
+	Body: None
+
+2025-12-27 09:32:58,388 - RESPONSE:
+	Status: 404
+	Process time: 0.005s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:58,392 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/login
+	Body: None
+
+2025-12-27 09:32:58,393 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:58,395 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/admin
+	Body: None
+
+2025-12-27 09:32:58,395 - RESPONSE:
+	Status: 404
+	Process time: 0.004s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:58,398 - REQUEST:
+	Endpoint: GET http://localhost/CFIDE/adminapi/customtags/l10n.cfm?attributes.id=test&attributes.file=../../administrator/mail/download.cfm&filename=../lib/password.properties&attributes.locale=it&attributes.var=it&attributes.jscript=false&attributes.type=text/html&attributes.charset=UTF-8&thisTag.executionmode=end&thisTag.generatedContent=test
+	Body: None
+
+2025-12-27 09:32:58,399 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:58,410 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/frame?class.module.classLoader.URLs%5B-1%5D=0
+	Body: None
+
+2025-12-27 09:32:58,411 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:58,415 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/cgi-bin/htgrep/file=index.html&hdr=/etc/passwd
+	Body: None
+
+2025-12-27 09:32:58,416 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:58,419 - REQUEST:
+	Endpoint: POST http://172.29.242.29:4444/autodiscover
+	Body: None
+
+2025-12-27 09:32:58,420 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:58,423 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/dana-na/../dana/html5acc/guacamole/../../../../../../etc/passwd?/dana/html5acc/guacamole/
+	Body: None
+
+2025-12-27 09:32:58,424 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:58,426 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/dashboard
+	Body: None
+
+2025-12-27 09:32:58,427 - RESPONSE:
+	Status: 404
+	Process time: 0.004s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:58,430 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/login
+	Body: None
+
+2025-12-27 09:32:58,431 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:58,439 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/frame/config_main.do?class.module.classLoader.URLs%5B-1%5D=0
+	Body: None
+
+2025-12-27 09:32:58,439 - RESPONSE:
+	Status: 404
+	Process time: 0.001s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:58,443 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/CFIDE/wizards/common/utils.cfc?method=verifyldapserver&vserver=localhost&vport=22&vstart=&vusername=&vpassword=&returnformat=json
+	Body: None
+
+2025-12-27 09:32:58,444 - RESPONSE:
+	Status: 404
+	Process time: 0.001s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:58,448 - REQUEST:
+	Endpoint: POST http://172.29.242.29:4444/smartdomuspad/modules/reporting/track_import_export.php
+	Body: None
+
+2025-12-27 09:32:58,448 - RESPONSE:
+	Status: 404
+	Process time: 0.001s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:58,453 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/cgi-bin/masterCGI?ping=nomip&user=;id;
+	Body: None
+
+2025-12-27 09:32:58,453 - RESPONSE:
+	Status: 404
+	Process time: 0.001s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:58,456 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/dashboard
+	Body: None
+
+2025-12-27 09:32:58,457 - RESPONSE:
+	Status: 404
+	Process time: 0.001s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:58,467 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/sys?class.module.classLoader.URLs%5B-1%5D=0
+	Body: None
+
+2025-12-27 09:32:58,467 - RESPONSE:
+	Status: 404
+	Process time: 0.001s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:58,479 - REQUEST:
+	Endpoint: POST http://172.29.242.29:4444/
+	Body: None
+
+2025-12-27 09:32:58,480 - RESPONSE:
+	Status: 405
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Method Not Allowed"
+		}
+
+2025-12-27 09:32:58,482 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/vpn/../vpns/cfg/smb.conf
+	Body: None
+
+2025-12-27 09:32:58,483 - RESPONSE:
+	Status: 404
+	Process time: 0.004s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:58,485 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/dashboard
+	Body: None
+
+2025-12-27 09:32:58,486 - RESPONSE:
+	Status: 404
+	Process time: 0.001s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:58,494 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/admin?class.module.classLoader.URLs%5B-1%5D=0
+	Body: None
+
+2025-12-27 09:32:58,495 - RESPONSE:
+	Status: 404
+	Process time: 0.001s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:58,513 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/settings
+	Body: None
+
+2025-12-27 09:32:58,514 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:58,523 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/page?class.module.classLoader.URLs%5B-1%5D=0
+	Body: None
+
+2025-12-27 09:32:58,523 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:58,547 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/settings
+	Body: None
+
+2025-12-27 09:32:58,548 - RESPONSE:
+	Status: 404
+	Process time: 0.001s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:58,549 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/api/experimental/test
+	Body: None
+
+2025-12-27 09:32:58,549 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:58,560 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/index?class.module.classLoader.URLs%5B-1%5D=0
+	Body: None
+
+2025-12-27 09:32:58,561 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:58,584 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/settings
+	Body: None
+
+2025-12-27 09:32:58,585 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:58,589 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/api/experimental/dags/example_trigger_target_dag/paused/false
+	Body: None
+
+2025-12-27 09:32:58,590 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:58,595 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/home?class.module.classLoader.URLs%5B-1%5D=0
+	Body: None
+
+2025-12-27 09:32:58,596 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:58,613 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/account
+	Body: None
+
+2025-12-27 09:32:58,614 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:58,618 - REQUEST:
+	Endpoint: POST http://172.29.242.29:4444/api/experimental/dags/example_trigger_target_dag/dag_runs
+	Body: None
+
+2025-12-27 09:32:58,619 - RESPONSE:
+	Status: 404
+	Process time: 0.001s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:58,641 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/account
+	Body: None
+
+2025-12-27 09:32:58,641 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:58,668 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/account
+	Body: None
+
+2025-12-27 09:32:58,668 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:58,675 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/
+	Body: None
+
+2025-12-27 09:32:58,676 - RESPONSE:
+	Status: 200
+	Process time: 0.003s
+	Body:
+		{
+			"status": "ok",
+			"message": "API is running"
+		}
+
+2025-12-27 09:32:58,698 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/profile
+	Body: None
+
+2025-12-27 09:32:58,699 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:58,728 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/profile
+	Body: None
+
+2025-12-27 09:32:58,729 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:32:58,757 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/profile
+	Body: None
+
+2025-12-27 09:32:58,758 - RESPONSE:
+	Status: 404
+	Process time: 0.001s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:33:07,181 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/rest/v1/AccountService/Accounts
+	Body: None
+
+2025-12-27 09:33:07,182 - RESPONSE:
+	Status: 404
+	Process time: 0.004s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:33:07,233 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/etc/mnt_info.csv
+	Body: None
+
+2025-12-27 09:33:07,234 - RESPONSE:
+	Status: 404
+	Process time: 0.003s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:33:07,318 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/images/../info.html
+	Body: None
+
+2025-12-27 09:33:07,319 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:33:07,406 - REQUEST:
+	Endpoint: HEAD http://172.29.242.29:4444/index.php
+	Body: None
+
+2025-12-27 09:33:07,407 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:33:07,471 - REQUEST:
+	Endpoint: POST http://172.29.242.29:4444/RPC2_Login
+	Body: None
+
+2025-12-27 09:33:07,472 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:33:07,507 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/index.php?app=main&inc=core_auth&route=login
+	Body: None
+
+2025-12-27 09:33:07,508 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:33:07,566 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/lexicom
+	Body: None
+
+2025-12-27 09:33:07,566 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:33:07,676 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/harmony
+	Body: None
+
+2025-12-27 09:33:07,676 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:33:07,705 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/harmony
+	Body: None
+
+2025-12-27 09:33:07,705 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:33:10,896 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/vltrader
+	Body: None
+
+2025-12-27 09:33:10,897 - RESPONSE:
+	Status: 404
+	Process time: 0.004s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:33:11,658 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/
+	Body: None
+
+2025-12-27 09:33:11,659 - RESPONSE:
+	Status: 200
+	Process time: 0.005s
+	Body:
+		{
+			"status": "ok",
+			"message": "API is running"
+		}
+
+2025-12-27 09:33:11,690 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/portal/diag/index.jsp
+	Body: None
+
+2025-12-27 09:33:11,691 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:33:15,934 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/lexicom
+	Body: None
+
+2025-12-27 09:33:15,936 - RESPONSE:
+	Status: 404
+	Process time: 0.004s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:33:16,457 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/vltrader
+	Body: None
+
+2025-12-27 09:33:16,458 - RESPONSE:
+	Status: 404
+	Process time: 0.003s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:33:19,280 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/index.html
+	Body: None
+
+2025-12-27 09:33:19,281 - RESPONSE:
+	Status: 404
+	Process time: 0.003s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:33:21,530 - REQUEST:
+	Endpoint: POST http://172.29.242.29:4444/EemAdminService/EemAdmin
+	Body: None
+
+2025-12-27 09:33:21,531 - RESPONSE:
+	Status: 404
+	Process time: 0.003s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:33:21,704 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/index.html
+	Body: None
+
+2025-12-27 09:33:21,705 - RESPONSE:
+	Status: 404
+	Process time: 0.003s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+
+2025-12-27 09:33:22,191 - REQUEST:
+	Endpoint: GET http://172.29.242.29:4444/index.html
+	Body: None
+
+2025-12-27 09:33:22,192 - RESPONSE:
+	Status: 404
+	Process time: 0.002s
+	Body:
+		{
+			"detail": "Not Found"
+		}
+

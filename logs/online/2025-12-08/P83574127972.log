@@ -1,0 +1,23 @@
+2025-12-08 08:56:26,440 - REQUEST:
+	Endpoint: POST http://localhost:4444/vc/
+	Body:
+		{
+			"intksk": "P83574127972"
+		}
+
+2025-12-08 08:56:26,441 - RESPONSE:
+	Status: 200
+	Process time: 0.474s
+	Body:
+		{
+			"device_name": "kssktabpack01",
+			"setup": "U25K_PACKINGTABLE_TEST",
+			"projekt": "MBEK",
+			"modbez": "IRM_RL",
+			"band": "PSEU83",
+			"status": true,
+			"ident": "R672475",
+			"intksk": "P83574127972",
+			"sequences": []
+		}
+

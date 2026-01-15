@@ -1,0 +1,30 @@
+2025-12-08 08:51:57,301 - REQUEST:
+	Endpoint: POST http://localhost:4444/vc/
+	Body:
+		{
+			"intksk": "I950026238437"
+		}
+
+2025-12-08 08:51:57,302 - RESPONSE:
+	Status: 400
+	Process time: 0.023s
+	Body:
+		{
+			"error": "Invalid intksk format."
+		}
+
+2025-12-08 08:52:07,419 - REQUEST:
+	Endpoint: POST http://localhost:4444/vc/
+	Body:
+		{
+			"intksk": "I950026238437"
+		}
+
+2025-12-08 08:52:07,420 - RESPONSE:
+	Status: 400
+	Process time: 0.005s
+	Body:
+		{
+			"error": "Invalid intksk format."
+		}
+

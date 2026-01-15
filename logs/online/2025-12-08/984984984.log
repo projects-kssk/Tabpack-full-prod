@@ -1,0 +1,93 @@
+2025-12-08 08:57:14,298 - REQUEST:
+	Endpoint: POST http://localhost:4444/vc/xml/
+	Body:
+		{
+			"intksk": "984984984"
+		}
+
+2025-12-08 08:57:14,299 - RESPONSE:
+	Status: 200
+	Process time: 0.026s
+	Body:
+		<krosy xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.kroschu.com/kroscada/namespaces/krosy/visualcontrol/V_0_1" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+		  <header>
+		    <requestID>None</requestID>
+		    <sourceHost>
+		      <hostname>kssktabpack01</hostname>
+		      <ipAddress>172.29.242.29</ipAddress>
+		      <macAddress>25:62:4d:f5:65:fe</macAddress>
+		    </sourceHost>
+		    <targetHost>
+		      <hostname>kssksun01</hostname>
+		      <ipAddress>172.26.192.1</ipAddress>
+		    </targetHost>
+		  </header>
+		  <body>
+		    <visualControl>
+		      <workingRequest intksk="984984984" scanned="2025-12-08T08:57:14" device="kssktabpack01"></workingRequest>
+		    </visualControl>
+		  </body>
+		</krosy>
+
+2025-12-08 08:57:46,972 - REQUEST:
+	Endpoint: POST http://localhost:4444/vc/xml/
+	Body:
+		{
+			"intksk": "984984984"
+		}
+
+2025-12-08 08:57:46,972 - RESPONSE:
+	Status: 200
+	Process time: 0.009s
+	Body:
+		<krosy xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.kroschu.com/kroscada/namespaces/krosy/visualcontrol/V_0_1" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+		  <header>
+		    <requestID>None</requestID>
+		    <sourceHost>
+		      <hostname>ksmitabpack03</hostname>
+		      <ipAddress>172.29.242.29</ipAddress>
+		      <macAddress>d1:eb:79:f8:da:a6</macAddress>
+		    </sourceHost>
+		    <targetHost>
+		      <hostname>ksmisun01</hostname>
+		      <ipAddress>172.29.242.126</ipAddress>
+		    </targetHost>
+		  </header>
+		  <body>
+		    <visualControl>
+		      <workingRequest intksk="984984984" scanned="2025-12-08T08:57:46" device="ksmitabpack03"></workingRequest>
+		    </visualControl>
+		  </body>
+		</krosy>
+
+2025-12-08 09:49:25,583 - REQUEST:
+	Endpoint: POST http://localhost:4444/vc/xml/
+	Body:
+		{
+			"intksk": "984984984"
+		}
+
+2025-12-08 09:49:25,585 - RESPONSE:
+	Status: 200
+	Process time: 0.004s
+	Body:
+		<krosy xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.kroschu.com/kroscada/namespaces/krosy/visualcontrol/V_0_1" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+		  <header>
+		    <requestID>22</requestID>
+		    <sourceHost>
+		      <hostname>ksmitabpack03</hostname>
+		      <ipAddress>172.29.242.29</ipAddress>
+		      <macAddress>6d:45:a4:2d:42:bf</macAddress>
+		    </sourceHost>
+		    <targetHost>
+		      <hostname>ksmisun01</hostname>
+		      <ipAddress>172.29.246.1</ipAddress>
+		    </targetHost>
+		  </header>
+		  <body>
+		    <visualControl>
+		      <workingRequest intksk="984984984" scanned="2025-12-08T09:49:25" device="ksmitabpack03"></workingRequest>
+		    </visualControl>
+		  </body>
+		</krosy>
+

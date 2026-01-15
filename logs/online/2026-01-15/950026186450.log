@@ -1,0 +1,15 @@
+2026-01-15 15:13:52,242 - REQUEST:
+	Endpoint: POST http://localhost:4444/vc/
+	Body:
+		{
+			"intksk": "950026186450"
+		}
+
+2026-01-15 15:13:52,243 - RESPONSE:
+	Status: 500
+	Process time: 3.012s
+	Body:
+		{
+			"error": "Could not connect to KROSY -- Exception: timed out"
+		}
+

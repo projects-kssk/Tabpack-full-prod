@@ -1,0 +1,486 @@
+2025-12-08 08:55:57,369 - REQUEST:
+	Endpoint: POST http://localhost:4444/vc/
+	Body:
+		{
+			"intksk": "P83556624728"
+		}
+
+2025-12-08 08:55:57,371 - RESPONSE:
+	Status: 200
+	Process time: 0.45s
+	Body:
+		{
+			"device_name": "kssktabpack01",
+			"setup": "U25K_PACKINGTABLE_TEST",
+			"projekt": "U25K",
+			"modbez": "HLS_LL",
+			"band": "PSEU83",
+			"status": true,
+			"ident": "R642033D",
+			"intksk": "P83556624728",
+			"sequences": [
+				{
+					"objGroup": "U25 0725",
+					"objPos": "Output1",
+					"reference": "2",
+					"result": false,
+					"compType": "scan",
+					"measType": "default",
+					"intksk": null,
+					"component": {
+						"type": "scan",
+						"index": "2",
+						"ident": null,
+						"name": "scan_2",
+						"start_pos": "1",
+						"regex": "",
+						"data": "P8385996"
+					}
+				}
+			]
+		}
+
+2025-12-08 08:56:00,830 - REQUEST:
+	Endpoint: POST http://localhost:4444/vc/checkpoint/
+	Body:
+		{
+			"intksk": "P83556624728"
+		}
+
+2025-12-08 08:56:00,831 - RESPONSE:
+	Status: 200
+	Process time: 3.436s
+	Body: None
+
+2025-12-08 08:56:41,241 - REQUEST:
+	Endpoint: POST http://localhost:4444/vc/
+	Body:
+		{
+			"intksk": "P83556624728"
+		}
+
+2025-12-08 08:56:41,242 - RESPONSE:
+	Status: 200
+	Process time: 0.42s
+	Body:
+		{
+			"device_name": "kssktabpack01",
+			"setup": "U25K_PACKINGTABLE_TEST",
+			"projekt": "U25K",
+			"modbez": "HLS_LL",
+			"band": "PSEU83",
+			"status": true,
+			"ident": "R642033D",
+			"intksk": "P83556624728",
+			"sequences": [
+				{
+					"objGroup": "U25 0725",
+					"objPos": "Output1",
+					"reference": "2",
+					"result": false,
+					"compType": "scan",
+					"measType": "default",
+					"intksk": null,
+					"component": {
+						"type": "scan",
+						"index": "2",
+						"ident": null,
+						"name": "scan_2",
+						"start_pos": "1",
+						"regex": "",
+						"data": "P8385996"
+					}
+				}
+			]
+		}
+
+2025-12-08 08:56:44,693 - REQUEST:
+	Endpoint: POST http://localhost:4444/vc/checkpoint/
+	Body:
+		{
+			"intksk": "P83556624728"
+		}
+
+2025-12-08 08:56:44,694 - RESPONSE:
+	Status: 200
+	Process time: 3.436s
+	Body: None
+
+2025-12-08 09:22:37,735 - REQUEST:
+	Endpoint: POST http://localhost:4444/vc/
+	Body:
+		{
+			"intksk": "P83556624728"
+		}
+
+2025-12-08 09:22:37,739 - RESPONSE:
+	Status: 200
+	Process time: 0.294s
+	Body:
+		{
+			"device_name": "ksmitabpack03",
+			"setup": "U25K_PACKINGTABLE_TEST",
+			"projekt": "U25K",
+			"modbez": "HLS_LL",
+			"band": "PSEU83",
+			"status": true,
+			"ident": "R642033D",
+			"intksk": "P83556624728",
+			"sequences": [
+				{
+					"objGroup": "U25 0725",
+					"objPos": "Output1",
+					"reference": "2",
+					"result": false,
+					"compType": "scan",
+					"measType": "default",
+					"intksk": null,
+					"component": {
+						"type": "scan",
+						"index": "2",
+						"ident": null,
+						"name": "scan_2",
+						"start_pos": "1",
+						"regex": "",
+						"data": "P8385996"
+					}
+				}
+			]
+		}
+
+2025-12-08 09:22:41,246 - REQUEST:
+	Endpoint: POST http://localhost:4444/vc/checkpoint/
+	Body:
+		{
+			"intksk": "P83556624728"
+		}
+
+2025-12-08 09:22:41,247 - RESPONSE:
+	Status: 200
+	Process time: 3.488s
+	Body: None
+
+2025-12-08 09:33:35,177 - REQUEST:
+	Endpoint: POST http://localhost:4444/vc/
+	Body:
+		{
+			"intksk": "P83556624728"
+		}
+
+2025-12-08 09:33:35,179 - RESPONSE:
+	Status: 200
+	Process time: 0.275s
+	Body:
+		{
+			"device_name": "ksmitabpack03",
+			"setup": "U25K_PACKINGTABLE_TEST",
+			"projekt": "U25K",
+			"modbez": "HLS_LL",
+			"band": "PSEU83",
+			"status": true,
+			"ident": "R642033D",
+			"intksk": "P83556624728",
+			"sequences": [
+				{
+					"objGroup": "U25 0725",
+					"objPos": "Output1",
+					"reference": "2",
+					"result": false,
+					"compType": "scan",
+					"measType": "default",
+					"intksk": null,
+					"component": {
+						"type": "scan",
+						"index": "2",
+						"ident": null,
+						"name": "scan_2",
+						"start_pos": "1",
+						"regex": "",
+						"data": "P8385996"
+					}
+				}
+			]
+		}
+
+2025-12-08 09:33:38,495 - REQUEST:
+	Endpoint: POST http://localhost:4444/vc/checkpoint/
+	Body:
+		{
+			"intksk": "P83556624728"
+		}
+
+2025-12-08 09:33:38,496 - RESPONSE:
+	Status: 200
+	Process time: 3.301s
+	Body: None
+
+2025-12-08 09:53:41,293 - REQUEST:
+	Endpoint: POST http://localhost:4444/vc/xml/
+	Body:
+		{
+			"intksk": "P83556624728"
+		}
+
+2025-12-08 09:53:41,293 - RESPONSE:
+	Status: 200
+	Process time: 0.003s
+	Body:
+		<krosy xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.kroschu.com/kroscada/namespaces/krosy/visualcontrol/V_0_1" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+		  <header>
+		    <requestID>22</requestID>
+		    <sourceHost>
+		      <hostname>ksmitabpack03</hostname>
+		      <ipAddress>172.29.242.29</ipAddress>
+		      <macAddress>6d:45:a4:2d:42:bf</macAddress>
+		    </sourceHost>
+		    <targetHost>
+		      <hostname>ksmisun01</hostname>
+		      <ipAddress>172.29.246.1</ipAddress>
+		    </targetHost>
+		  </header>
+		  <body>
+		    <visualControl>
+		      <workingRequest intksk="P83556624728" scanned="2025-12-08T09:53:41" device="ksmitabpack03"></workingRequest>
+		    </visualControl>
+		  </body>
+		</krosy>
+
+2025-12-08 09:55:26,333 - REQUEST:
+	Endpoint: POST http://localhost:4444/vc/xml/
+	Body:
+		{
+			"intksk": "P83556624728"
+		}
+
+2025-12-08 09:55:26,334 - RESPONSE:
+	Status: 200
+	Process time: 0.008s
+	Body:
+		<krosy xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.kroschu.com/kroscada/namespaces/krosy/visualcontrol/V_0_1" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+		  <header>
+		    <requestID>22</requestID>
+		    <sourceHost>
+		      <hostname>ksmitabpack03</hostname>
+		      <ipAddress>172.29.242.29</ipAddress>
+		      <macAddress>f1:5f:58:d2:5f:e9</macAddress>
+		    </sourceHost>
+		    <targetHost>
+		      <hostname>ksmisun01</hostname>
+		      <ipAddress>172.29.246.1</ipAddress>
+		    </targetHost>
+		  </header>
+		  <body>
+		    <visualControl>
+		      <workingRequest intksk="P83556624728" scanned="2025-12-08T09:55:26" device="ksmitabpack03"></workingRequest>
+		    </visualControl>
+		  </body>
+		</krosy>
+
+2025-12-08 09:58:58,297 - REQUEST:
+	Endpoint: POST http://localhost:4444/vc/raw/
+	Body:
+		{
+			"intksk": "P83556624728"
+		}
+
+2025-12-08 09:58:58,299 - RESPONSE:
+	Status: 200
+	Process time: 0.266s
+	Body:
+		<krosy xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.kroschu.com/kroscada/namespaces/krosy/visualcontrol/V_1_2">
+		    <header>
+		        <requestID>23</requestID>
+		        <responseID>1</responseID>
+		        <sourceHost>
+		            <hostname>ksmisun01</hostname>
+		            <ipAddress>0.0.0.0</ipAddress>
+		        </sourceHost>
+		        <targetHost>
+		            <hostname>ksmitabpack03</hostname>
+		        </targetHost>
+		        <embeddedBinaries allowed="true" encoding="Base64"/>
+		    </header>
+		    <body>
+		        <visualControl>
+		            <workingData device="ksmitabpack03" intksk="P83556624728" kfb="" scanned="2025-12-08T09:58:58" setup="U25K_PACKINGTABLE_TEST" projekt="U25K" ksknr="MU25IL0725V0" kskidx="0" lfdnr="0" modbez="HLS_LL" modjahr="" band="PSEU83" ident="R642033D" status="true">
+		                <sequencer>
+		                    <segmentList count="1">
+		                        <segment index="1" name="1">
+		                            <sequenceList count="8">
+		                                <sequence index="1" compType="scan" reference="1" measType="no_check">
+		                                    <objGroup>U25 0725</objGroup>
+		                                    <objPos>Output3</objPos>
+		                                </sequence>
+		                                <sequence index="2" compType="scan" reference="2" measType="default">
+		                                    <objGroup>U25 0725</objGroup>
+		                                    <objPos>Output1</objPos>
+		                                </sequence>
+		                                <sequence index="3" compType="scan" reference="3" measType="no_check">
+		                                    <objGroup>U25 0725</objGroup>
+		                                    <objPos>Output4</objPos>
+		                                </sequence>
+		                                <sequence index="4" compType="scan" reference="4" measType="no_check">
+		                                    <objGroup>U25 0725</objGroup>
+		                                    <objPos>Output2</objPos>
+		                                </sequence>
+		                                <sequence index="5" compType="scan" reference="5" measType="no_check">
+		                                    <objGroup>U25 0726</objGroup>
+		                                    <objPos>Output2</objPos>
+		                                </sequence>
+		                                <sequence index="6" compType="scan" reference="6" measType="no_check">
+		                                    <objGroup>U25 0726</objGroup>
+		                                    <objPos>Output1</objPos>
+		                                </sequence>
+		                                <sequence index="7" compType="scan" reference="7" measType="no_check">
+		                                    <objGroup>U25 0726</objGroup>
+		                                    <objPos>Output3</objPos>
+		                                </sequence>
+		                                <sequence index="8" compType="scan" reference="8" measType="no_check">
+		                                    <objGroup>U25 0726</objGroup>
+		                                    <objPos>Output4</objPos>
+		                                </sequence>
+		                            </sequenceList>
+		                        </segment>
+		                    </segmentList>
+		                </sequencer>
+		                <component>
+		                    <scanList count="8">
+		                        <scan index="1" name="scan_1">
+		                            <text startPos="1" regEx="">no_check</text>
+		                        </scan>
+		                        <scan index="2" name="scan_2">
+		                            <text startPos="1" regEx="">P8385996</text>
+		                        </scan>
+		                        <scan index="3" name="scan_3">
+		                            <text startPos="1" regEx="">no_check</text>
+		                        </scan>
+		                        <scan index="4" name="scan_4">
+		                            <text startPos="1" regEx="">no_check</text>
+		                        </scan>
+		                        <scan index="5" name="scan_5">
+		                            <text startPos="1" regEx="">no_check</text>
+		                        </scan>
+		                        <scan index="6" name="scan_6">
+		                            <text startPos="1" regEx="">no_check</text>
+		                        </scan>
+		                        <scan index="7" name="scan_7">
+		                            <text startPos="1" regEx="">no_check</text>
+		                        </scan>
+		                        <scan index="8" name="scan_8">
+		                            <text startPos="1" regEx="">no_check</text>
+		                        </scan>
+		                    </scanList>
+		                </component>
+		            </workingData>
+		        </visualControl>
+		    </body>
+		</krosy>
+
+2025-12-08 11:05:40,966 - REQUEST:
+	Endpoint: POST http://localhost:4444/vc/
+	Body:
+		{
+			"intksk": "P83556624728"
+		}
+
+2025-12-08 11:05:40,968 - RESPONSE:
+	Status: 200
+	Process time: 0.268s
+	Body:
+		{
+			"device_name": "ksmitabpack03",
+			"setup": "U25K_PACKINGTABLE_TEST",
+			"projekt": "U25K",
+			"modbez": "HLS_LL",
+			"band": "PSEU83",
+			"status": true,
+			"ident": "R642033D",
+			"intksk": "P83556624728",
+			"sequences": [
+				{
+					"objGroup": "U25 0725",
+					"objPos": "Output1",
+					"reference": "2",
+					"result": false,
+					"compType": "scan",
+					"measType": "default",
+					"intksk": null,
+					"component": {
+						"type": "scan",
+						"index": "2",
+						"ident": null,
+						"name": "scan_2",
+						"start_pos": "1",
+						"regex": "",
+						"data": "P8385996"
+					}
+				}
+			]
+		}
+
+2025-12-08 11:05:44,286 - REQUEST:
+	Endpoint: POST http://localhost:4444/vc/checkpoint/
+	Body:
+		{
+			"intksk": "P83556624728"
+		}
+
+2025-12-08 11:05:44,288 - RESPONSE:
+	Status: 200
+	Process time: 3.297s
+	Body: None
+
+2025-12-08 11:11:18,380 - REQUEST:
+	Endpoint: POST http://localhost:4444/vc/
+	Body:
+		{
+			"intksk": "P83556624728"
+		}
+
+2025-12-08 11:11:18,382 - RESPONSE:
+	Status: 200
+	Process time: 0.434s
+	Body:
+		{
+			"device_name": "ksmitabpack03",
+			"setup": "U25K_PACKINGTABLE_TEST",
+			"projekt": "U25K",
+			"modbez": "HLS_LL",
+			"band": "PSEU83",
+			"status": true,
+			"ident": "R642033D",
+			"intksk": "P83556624728",
+			"sequences": [
+				{
+					"objGroup": "U25 0725",
+					"objPos": "Output1",
+					"reference": "2",
+					"result": false,
+					"compType": "scan",
+					"measType": "default",
+					"intksk": null,
+					"component": {
+						"type": "scan",
+						"index": "2",
+						"ident": null,
+						"name": "scan_2",
+						"start_pos": "1",
+						"regex": "",
+						"data": "P8385996"
+					}
+				}
+			]
+		}
+
+2025-12-08 11:11:21,726 - REQUEST:
+	Endpoint: POST http://localhost:4444/vc/checkpoint/
+	Body:
+		{
+			"intksk": "P83556624728"
+		}
+
+2025-12-08 11:11:21,728 - RESPONSE:
+	Status: 200
+	Process time: 3.326s
+	Body: None
+

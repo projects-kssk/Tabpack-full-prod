@@ -1,0 +1,353 @@
+2025-12-08 09:30:56,137 - REQUEST:
+	Endpoint: POST http://localhost:4444/vc/
+	Body:
+		{
+			"intksk": "950025907487"
+		}
+
+2025-12-08 09:30:56,139 - RESPONSE:
+	Status: 200
+	Process time: 0.173s
+	Body:
+		{
+			"device_name": "ksmitabpack03",
+			"setup": "U25K_PACKINGTABLE_TEST",
+			"projekt": "U25K",
+			"modbez": "HLS_RL",
+			"band": "0953I1",
+			"status": true,
+			"ident": "642834D",
+			"intksk": "950025907487",
+			"sequences": []
+		}
+
+2025-12-08 09:30:58,292 - REQUEST:
+	Endpoint: POST http://localhost:4444/vc/
+	Body:
+		{
+			"intksk": "950025907487"
+		}
+
+2025-12-08 09:30:58,293 - RESPONSE:
+	Status: 200
+	Process time: 0.174s
+	Body:
+		{
+			"device_name": "ksmitabpack03",
+			"setup": "U25K_PACKINGTABLE_TEST",
+			"projekt": "U25K",
+			"modbez": "HLS_RL",
+			"band": "0953I1",
+			"status": true,
+			"ident": "642834D",
+			"intksk": "950025907487",
+			"sequences": []
+		}
+
+2025-12-08 09:30:59,952 - REQUEST:
+	Endpoint: POST http://localhost:4444/vc/
+	Body:
+		{
+			"intksk": "950025907487"
+		}
+
+2025-12-08 09:30:59,953 - RESPONSE:
+	Status: 200
+	Process time: 0.172s
+	Body:
+		{
+			"device_name": "ksmitabpack03",
+			"setup": "U25K_PACKINGTABLE_TEST",
+			"projekt": "U25K",
+			"modbez": "HLS_RL",
+			"band": "0953I1",
+			"status": true,
+			"ident": "642834D",
+			"intksk": "950025907487",
+			"sequences": []
+		}
+
+2025-12-08 09:36:18,286 - REQUEST:
+	Endpoint: POST http://localhost:4444/vc/
+	Body:
+		{
+			"intksk": "950025907487"
+		}
+
+2025-12-08 09:36:18,287 - RESPONSE:
+	Status: 200
+	Process time: 0.183s
+	Body:
+		{
+			"device_name": "ksmitabpack03",
+			"setup": "U25K_PACKINGTABLE_TEST",
+			"projekt": "U25K",
+			"modbez": "HLS_RL",
+			"band": "0953I1",
+			"status": true,
+			"ident": "642834D",
+			"intksk": "950025907487",
+			"sequences": []
+		}
+
+2025-12-08 09:42:39,416 - REQUEST:
+	Endpoint: POST http://localhost:4444/vc/
+	Body:
+		{
+			"intksk": "950025907487"
+		}
+
+2025-12-08 09:42:39,417 - RESPONSE:
+	Status: 200
+	Process time: 0.312s
+	Body:
+		{
+			"device_name": "ksmitabpack03",
+			"setup": "U25K_PACKINGTABLE_TEST",
+			"projekt": "U25K",
+			"modbez": "HLS_RL",
+			"band": "0953I1",
+			"status": true,
+			"ident": "642834D",
+			"intksk": "950025907487",
+			"sequences": []
+		}
+
+2025-12-08 09:50:02,573 - REQUEST:
+	Endpoint: POST http://localhost:4444/vc/xml/
+	Body:
+		{
+			"intksk": "950025907487"
+		}
+
+2025-12-08 09:50:02,573 - RESPONSE:
+	Status: 200
+	Process time: 0.003s
+	Body:
+		<krosy xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.kroschu.com/kroscada/namespaces/krosy/visualcontrol/V_0_1" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+		  <header>
+		    <requestID>22</requestID>
+		    <sourceHost>
+		      <hostname>ksmitabpack03</hostname>
+		      <ipAddress>172.29.242.29</ipAddress>
+		      <macAddress>6d:45:a4:2d:42:bf</macAddress>
+		    </sourceHost>
+		    <targetHost>
+		      <hostname>ksmisun01</hostname>
+		      <ipAddress>172.29.246.1</ipAddress>
+		    </targetHost>
+		  </header>
+		  <body>
+		    <visualControl>
+		      <workingRequest intksk="950025907487" scanned="2025-12-08T09:50:02" device="ksmitabpack03"></workingRequest>
+		    </visualControl>
+		  </body>
+		</krosy>
+
+2025-12-08 10:09:57,268 - REQUEST:
+	Endpoint: POST http://localhost:4444/vc/
+	Body:
+		{
+			"intksk": "950025907487"
+		}
+
+2025-12-08 10:09:57,268 - RESPONSE:
+	Status: 200
+	Process time: 0.179s
+	Body:
+		{
+			"device_name": "ksmitabpack03",
+			"setup": "U25K_PACKINGTABLE_TEST",
+			"projekt": "U25K",
+			"modbez": "HLS_RL",
+			"band": "0953I1",
+			"status": true,
+			"ident": "642834D",
+			"intksk": "950025907487",
+			"sequences": []
+		}
+
+2025-12-08 10:16:35,873 - REQUEST:
+	Endpoint: POST http://localhost:4444/vc/
+	Body:
+		{
+			"intksk": "950025907487"
+		}
+
+2025-12-08 10:16:35,874 - RESPONSE:
+	Status: 200
+	Process time: 0.183s
+	Body:
+		{
+			"device_name": "ksmitabpack03",
+			"setup": "U25K_PACKINGTABLE_TEST",
+			"projekt": "U25K",
+			"modbez": "HLS_RL",
+			"band": "0953I1",
+			"status": true,
+			"ident": "642834D",
+			"intksk": "950025907487",
+			"sequences": []
+		}
+
+2025-12-08 10:16:41,195 - REQUEST:
+	Endpoint: POST http://localhost:4444/vc/
+	Body:
+		{
+			"intksk": "950025907487"
+		}
+
+2025-12-08 10:16:41,197 - RESPONSE:
+	Status: 200
+	Process time: 0.191s
+	Body:
+		{
+			"device_name": "ksmitabpack03",
+			"setup": "U25K_PACKINGTABLE_TEST",
+			"projekt": "U25K",
+			"modbez": "HLS_RL",
+			"band": "0953I1",
+			"status": true,
+			"ident": "642834D",
+			"intksk": "950025907487",
+			"sequences": []
+		}
+
+2025-12-08 10:16:49,713 - REQUEST:
+	Endpoint: POST http://localhost:4444/vc/
+	Body:
+		{
+			"intksk": "950025907487"
+		}
+
+2025-12-08 10:16:49,715 - RESPONSE:
+	Status: 200
+	Process time: 0.185s
+	Body:
+		{
+			"device_name": "ksmitabpack03",
+			"setup": "U25K_PACKINGTABLE_TEST",
+			"projekt": "U25K",
+			"modbez": "HLS_RL",
+			"band": "0953I1",
+			"status": true,
+			"ident": "642834D",
+			"intksk": "950025907487",
+			"sequences": []
+		}
+
+2025-12-08 10:17:10,122 - REQUEST:
+	Endpoint: POST http://localhost:4444/vc/
+	Body:
+		{
+			"intksk": "950025907487"
+		}
+
+2025-12-08 10:17:10,123 - RESPONSE:
+	Status: 200
+	Process time: 0.177s
+	Body:
+		{
+			"device_name": "ksmitabpack03",
+			"setup": "U25K_PACKINGTABLE_TEST",
+			"projekt": "U25K",
+			"modbez": "HLS_RL",
+			"band": "0953I1",
+			"status": true,
+			"ident": "642834D",
+			"intksk": "950025907487",
+			"sequences": []
+		}
+
+2025-12-08 10:36:30,744 - REQUEST:
+	Endpoint: POST http://localhost:4444/vc/
+	Body:
+		{
+			"intksk": "950025907487"
+		}
+
+2025-12-08 10:36:30,745 - RESPONSE:
+	Status: 200
+	Process time: 0.177s
+	Body:
+		{
+			"device_name": "ksmitabpack03",
+			"setup": "U25K_PACKINGTABLE_TEST",
+			"projekt": "U25K",
+			"modbez": "HLS_RL",
+			"band": "0953I1",
+			"status": true,
+			"ident": "642834D",
+			"intksk": "950025907487",
+			"sequences": []
+		}
+
+2025-12-08 10:36:40,569 - REQUEST:
+	Endpoint: POST http://localhost:4444/vc/
+	Body:
+		{
+			"intksk": "950025907487"
+		}
+
+2025-12-08 10:36:40,571 - RESPONSE:
+	Status: 200
+	Process time: 0.181s
+	Body:
+		{
+			"device_name": "ksmitabpack03",
+			"setup": "U25K_PACKINGTABLE_TEST",
+			"projekt": "U25K",
+			"modbez": "HLS_RL",
+			"band": "0953I1",
+			"status": true,
+			"ident": "642834D",
+			"intksk": "950025907487",
+			"sequences": []
+		}
+
+2025-12-08 11:06:17,559 - REQUEST:
+	Endpoint: POST http://localhost:4444/vc/
+	Body:
+		{
+			"intksk": "950025907487"
+		}
+
+2025-12-08 11:06:17,561 - RESPONSE:
+	Status: 200
+	Process time: 0.179s
+	Body:
+		{
+			"device_name": "ksmitabpack03",
+			"setup": "U25K_PACKINGTABLE_TEST",
+			"projekt": "U25K",
+			"modbez": "HLS_RL",
+			"band": "0953I1",
+			"status": true,
+			"ident": "642834D",
+			"intksk": "950025907487",
+			"sequences": []
+		}
+
+2025-12-08 11:11:51,662 - REQUEST:
+	Endpoint: POST http://localhost:4444/vc/
+	Body:
+		{
+			"intksk": "950025907487"
+		}
+
+2025-12-08 11:11:51,664 - RESPONSE:
+	Status: 200
+	Process time: 0.176s
+	Body:
+		{
+			"device_name": "ksmitabpack03",
+			"setup": "U25K_PACKINGTABLE_TEST",
+			"projekt": "U25K",
+			"modbez": "HLS_RL",
+			"band": "0953I1",
+			"status": true,
+			"ident": "642834D",
+			"intksk": "950025907487",
+			"sequences": []
+		}
+

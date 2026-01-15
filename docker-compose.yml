@@ -1,0 +1,38 @@
+services:
+  backend:
+    image: krosy-backend:latest
+    network_mode: "host"
+    volumes:
+      - ./logs:/app/logs
+    environment:
+      - PYTHONUNBUFFERED=1
+      - TARGET_HOST_NAME=ksmisun01
+      - TARGET_HOST_IP=172.29.246.1
+      - TARGET_HOST_PORT=10080
+      - SOURCE_HOST_NAME=ksmitabpack03
+    restart: unless-stopped
+    command: ["fastapi", "run", "main.py", "--host=0.0.0.0", "--port=4444"]
+  redis:
+    image: redis:8.4.0
+    ports:
+      - "6379:6379"
+    restart: unless-stopped
+  controller:
+    image: tabpack-controller:latest
+    network_mode: host
+    privileged: true
+    devices:
+      - "/dev/input:/dev/input"
+      - "/dev/gpiochip0:/dev/gpiochip0"
+      - "/dev/ttyUSB0:/dev/ttyUSB0"
+    environment:
+      - KSSK_API_BASE_URL=http://localhost:4444
+      - KSSK_API_ENDPOINT=/vc
+      - KSSK_CHECKPOINT_API_ENDPOINT=/vc/checkpoint
+      - ARDUINO_MICRO_VENDOR_ID=0x2341
+      - ARDUINO_MICRO_PRODUCT_ID=0x8037
+      - TEST_MODE=0
+      - I2C_BUS_NUM=7
+      - I2C_ADDRESS=0x20
+    restart: unless-stopped
+    command: ["python", "-u", "main.py"]
